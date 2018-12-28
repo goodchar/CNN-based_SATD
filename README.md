@@ -1,7 +1,7 @@
 # CNN-based_SATD
 This is a replication package for our paper submitted in TOSEM: Neural Network Based Classification of Self-admitted Technical Debt: From Performance to Explainability and Deployability
 
-===========================================================================================
+============================================================================
 Here are some description of our documents:
 
 1, patterns_of_each_project refers to patterns extracted from different projects
