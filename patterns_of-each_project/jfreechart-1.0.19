@@ -1,0 +1,1355 @@
+
+**********************************sentence NO.=665**************************************
+since the items are ordered , we could be more clever here and avoid iterating over all the data
+1
+[-1.7117098569869995, 1.7116869688034058]
+[0.03157220408320427, 0.968427836894989]
+clever	[ 0.11959265  0.88040735]
+clever here	[ 0.29902224  0.70097776]
+we could	[ 0.47284369  0.52715631]
+ordered we	[ 0.49953296  0.50046704]
+are ordered	[ 0.49211377  0.50788623]
+over all the	[ 0.49704573  0.50295427]
+clever here and	[ 0.18916076  0.81083924]
+more clever here	[ 0.42928116  0.57071884]
+ordered we could	[ 0.49276206  0.50723794]
+be more clever	[ 0.39395663  0.60604337]
+could be more	[ 0.41949611  0.58050389]
+we could be	[ 0.49400937  0.50599063]
+we could be more	[ 0.36910083  0.63089917]
+clever here and avoid	[ 0.28747262  0.71252738]
+avoid iterating over all	[ 0.49683349  0.50316651]
+more clever here and	[ 0.48930327  0.51069673]
+could be more clever	[ 0.40768717  0.59231283]
+and avoid iterating over	[ 0.4959729  0.5040271]
+we could be more clever	[ 0.46596913  0.53403087]
+avoid iterating over all the	[ 0.36508217  0.63491783]
+could be more clever here	[ 0.35272175  0.64727825]
+clever here and avoid iterating	[ 0.3023873  0.6976127]
+ordered we could be more	[ 0.41501092  0.58498908]
+here and avoid iterating over	[ 0.49718359  0.50281641]
+are ordered we could be	[ 0.43881373  0.56118627]
+be more clever here and avoid	[ 0.40786075  0.59213925]
+ordered we could be more clever	[ 0.23312379  0.76687621]
+are ordered we could be more	[ 0.44141493  0.55858507]
+avoid iterating over all the data	[ 0.49082752  0.50917248]
+and avoid iterating over all the	[ 0.36096798  0.63903202]
+could be more clever here and	[ 0.42796706  0.57203294]
+we could be more clever here	[ 0.35999355  0.64000645]
+clever here and avoid iterating over	[ 0.37410576  0.62589424]
+
+**********************************sentence NO.=1162**************************************
+double nan doesn't mess things up
+1
+[-0.15047547221183777, 0.1504613310098648]
+[0.4253285229206085, 0.5746715664863586]
+mess	[ 0.46909606  0.53090394]
+mess things	[ 0.33242572  0.66757428]
+things up	[ 0.48277868  0.51722132]
+<UNK> mess things	[ 0.48503066  0.51496934]
+mess things up	[ 0.20185275  0.79814725]
+things up <UNK> <UNK>	[ 0.40192274  0.59807726]
+<UNK> mess things up	[ 0.46342397  0.53657603]
+nan <UNK> mess things	[ 0.46251612  0.53748388]
+<UNK> mess things up <UNK>	[ 0.20413629  0.79586371]
+
+**********************************sentence NO.=1387**************************************
+todo private boolean fillzoomrectangle true
+1
+[-8.75478744506836, 8.754740715026855]
+[2.4871852133401262e-08, 1.0]
+todo	[ 0.02548887  0.97451113]
+todo private	[ 0.08838329  0.91161671]
+todo private boolean	[ 0.03298744  0.96701256]
+boolean <UNK> true <UNK>	[ 0.07806637  0.92193363]
+todo private boolean <UNK> true	[ 0.00133818  0.99866182]
+todo private boolean <UNK> true <UNK>	[ 0.10361323  0.89638677]
+
+**********************************sentence NO.=1676**************************************
+we have rotation houston , please spin me
+1
+[-0.19799865782260895, 0.19798383116722107]
+[0.40227800607681274, 0.597722053527832]
+me	[ 0.47965204  0.52034796]
+houston	[ 0.3580395  0.6419605]
+please spin	[ 0.48218887  0.51781113]
+please spin me	[ 0.3333618  0.6666382]
+houston please spin	[ 0.33496503  0.66503497]
+we have rotation houston	[ 0.4651835  0.5348165]
+houston please spin me	[ 0.41058893  0.58941107]
+have rotation houston please	[ 0.45093334  0.54906666]
+we have rotation houston please	[ 0.34274969  0.65725031]
+have rotation houston please spin	[ 0.45938133  0.54061867]
+me <UNK> <UNK> <UNK> <UNK>	[ 0.48585042  0.51414958]
+rotation houston please spin me	[ 0.47644209  0.52355791]
+we have rotation houston please spin	[ 0.28253167  0.71746833]
+<UNK> <UNK> <UNK> <UNK> <UNK> <UNK>	[ 0.35971809  0.64028191]
+
+**********************************sentence NO.=1797**************************************
+some subclasses override this method completely , so do n't put anything here that must be done
+1
+[-0.3442433178424835, 0.3442287743091583]
+[0.3343730568885803, 0.6656270027160645]
+this	[ 0.47901769  0.52098231]
+completely	[ 0.40996294  0.59003706]
+n't put	[ 0.44716568  0.55283432]
+be done	[ 0.47595003  0.52404997]
+so do	[ 0.48409295  0.51590705]
+anything here	[ 0.45054986  0.54945014]
+override this method	[ 0.46129601  0.53870399]
+that must be	[ 0.45493612  0.54506388]
+put anything here	[ 0.46586982  0.53413018]
+done <UNK> <UNK>	[ 0.49906229  0.50093771]
+method completely so	[ 0.48330275  0.51669725]
+this method completely	[ 0.44994944  0.55005056]
+n't put anything here	[ 0.46184644  0.53815356]
+must be done <UNK>	[ 0.47466501  0.52533499]
+put anything here that	[ 0.38132171  0.61867829]
+this method completely so	[ 0.35335892  0.64664108]
+do n't put anything	[ 0.49891994  0.50108006]
+anything here that must	[ 0.40429507  0.59570493]
+this method completely so do	[ 0.43022609  0.56977391]
+so do n't put anything	[ 0.41924354  0.58075646]
+anything here that must be	[ 0.47110649  0.52889351]
+override this method completely so	[ 0.34463088  0.65536912]
+n't put anything here that	[ 0.41758648  0.58241352]
+here that must be done	[ 0.43325884  0.56674116]
+override this method completely so do	[ 0.18660832  0.81339168]
+so do n't put anything here	[ 0.32396088  0.67603912]
+n't put anything here that must	[ 0.48558797  0.51441203]
+here that must be done <UNK>	[ 0.46347387  0.53652613]
+this method completely so do n't	[ 0.35596476  0.64403524]
+put anything here that must be	[ 0.45643335  0.54356665]
+anything here that must be done	[ 0.45341322  0.54658678]
+do n't put anything here that	[ 0.48050983  0.51949017]
+
+**********************************sentence NO.=1872**************************************
+images considered equal only if they 're the same object todo is there a way to do a better test \?
+1
+[-10.14554214477539, 10.145488739013672]
+[1.5406970144127285e-09, 1.0]
+todo	[ 0.01520132  0.98479868]
+way	[ 0.43308356  0.56691644]
+todo is	[ 0.04920681  0.95079319]
+is there	[ 0.45990769  0.54009231]
+object todo	[ 0.44936071  0.55063929]
+way to	[ 0.49049502  0.50950498]
+todo is there	[ 0.01740579  0.98259421]
+to do a	[ 0.45556841  0.54443159]
+todo is there a	[ 0.01227666  0.98772334]
+to do a better	[ 0.4795151  0.5204849]
+same object todo is	[ 0.49799567  0.50200433]
+considered equal only if	[ 0.49731499  0.50268501]
+todo is there a way	[  1.68993014e-04   9.99831007e-01]
+to do a better test	[ 0.46759913  0.53240087]
+is there a way to do	[ 0.14376187  0.85623813]
+todo is there a way to	[ 0.00386507  0.99613493]
+the same object todo is there	[ 0.46600697  0.53399303]
+
+**********************************sentence NO.=1953**************************************
+the commented out code would be better , but only if rendererchangeevent is immutable , which it is n't see if there is a way to fix this
+1
+[-3.216230630874634, 3.21620774269104]
+[0.0016059406334534287, 0.9983940720558167]
+way	[ 0.38812897  0.61187103]
+fix	[ 0.22835376  0.77164624]
+this	[ 0.48988407  0.51011593]
+code would	[ 0.45066415  0.54933585]
+fix this	[ 0.23102222  0.76897778]
+out code	[ 0.41662753  0.58337247]
+is a	[ 0.49624277  0.50375723]
+to fix this	[ 0.43552559  0.56447441]
+code would be	[ 0.48220039  0.51779961]
+be better but	[ 0.44994016  0.55005984]
+is a way	[ 0.42639661  0.57360339]
+would be better	[ 0.43022637  0.56977363]
+fix this <UNK> <UNK>	[ 0.20744893  0.79255107]
+commented out code would	[ 0.48288725  0.51711275]
+is a way to	[ 0.47692851  0.52307149]
+way to fix this	[ 0.3207027  0.6792973]
+is a way to fix	[ 0.21697053  0.78302947]
+commented out code would be	[ 0.46523843  0.53476157]
+fix this <UNK> <UNK> <UNK>	[ 0.44913276  0.55086724]
+a way to fix this	[ 0.33183743  0.66816257]
+code would be better but	[ 0.35019473  0.64980527]
+out code would be better	[ 0.44024179  0.55975821]
+commented out code would be better	[ 0.10391836  0.89608164]
+it is n't see if there	[ 0.40786412  0.59213588]
+out code would be better but	[ 0.42953166  0.57046834]
+is a way to fix this	[ 0.30885437  0.69114563]
+
+**********************************sentence NO.=2055**************************************
+todo getseriesshape \( n \) getbounds \( \) height 2
+1
+[-8.075444221496582, 8.075392723083496]
+[9.677886936287905e-08, 0.9999998807907104]
+todo	[ 0.02023625  0.97976375]
+todo <UNK>	[ 0.08304819  0.91695181]
+todo <UNK> n	[ 0.0101702  0.9898298]
+todo <UNK> n getbounds	[ 0.01577113  0.98422887]
+todo <UNK> n getbounds height	[ 0.00172531  0.99827469]
+todo <UNK> n getbounds height 2	[ 0.04843842  0.95156158]
+
+**********************************sentence NO.=2059**************************************
+todo getseriesshape \( n \) getbounds \( \) width 2
+1
+[-7.602597236633301, 7.602543354034424]
+[2.491673001259187e-07, 0.9999997615814209]
+todo	[ 0.01980058  0.98019942]
+todo <UNK>	[ 0.08745356  0.91254644]
+todo <UNK> n	[ 0.01029334  0.98970666]
+todo <UNK> n getbounds	[ 0.01572602  0.98427398]
+todo <UNK> n getbounds width	[ 0.00434007  0.99565993]
+todo <UNK> n getbounds width 2	[ 0.03329114  0.96670886]
+
+**********************************sentence NO.=2235**************************************
+for the keys , a shallow copy should be fine because keys should be immutable
+1
+[-0.16828423738479614, 0.16827133297920227]
+[0.41664645075798035, 0.583353579044342]
+immutable	[ 0.45328932  0.54671068]
+shallow	[ 0.43441069  0.56558931]
+be immutable	[ 0.4832245  0.5167755]
+should be	[ 0.48115962  0.51884038]
+shallow copy	[ 0.43681001  0.56318999]
+keys a	[ 0.49780446  0.50219554]
+keys should be	[ 0.45627138  0.54372862]
+shallow copy should	[ 0.47740632  0.52259368]
+should be fine	[ 0.42196273  0.57803727]
+should be immutable <UNK>	[ 0.4853917  0.5146083]
+shallow copy should be	[ 0.25656255  0.74343745]
+be fine because keys	[ 0.31878301  0.68121699]
+keys should be immutable	[ 0.43449196  0.56550804]
+copy should be fine because	[ 0.46958526  0.53041474]
+a shallow copy should be	[ 0.42631445  0.57368555]
+for the keys a shallow copy	[ 0.45866329  0.54133671]
+shallow copy should be fine because	[ 0.32267316  0.67732684]
+a shallow copy should be fine	[ 0.35879502  0.64120498]
+copy should be fine because keys	[ 0.48544377  0.51455623]
+should be fine because keys should	[ 0.46733251  0.53266749]
+
+**********************************sentence NO.=2292**************************************
+pretty sure this should n't ever happen
+1
+[-0.30665725469589233, 0.30664458870887756]
+[0.35130637884140015, 0.6486936807632446]
+this	[ 0.48344394  0.51655606]
+this should	[ 0.44108767  0.55891233]
+sure this	[ 0.47986448  0.52013552]
+sure this should	[ 0.48636761  0.51363239]
+this should n't	[ 0.3927173  0.6072827]
+pretty sure this should	[ 0.27716437  0.72283563]
+sure this should n't	[ 0.48458787  0.51541213]
+this should n't ever	[ 0.33275703  0.66724297]
+pretty sure this should n't	[ 0.31632367  0.68367633]
+sure this should n't ever	[ 0.38788593  0.61211407]
+this should n't ever happen	[ 0.40800068  0.59199932]
+pretty sure this should n't ever	[ 0.20043666  0.79956334]
+sure this should n't ever happen	[ 0.32654222  0.67345778]
+
+**********************************sentence NO.=2394**************************************
+todo to be implemented
+1
+[-13.77119255065918, 13.771139144897461]
+[1.092741240375783e-12, 1.0]
+todo	[ 0.03011734  0.96988266]
+implemented	[ 0.42972034  0.57027966]
+todo to	[ 0.04943617  0.95056383]
+be implemented	[ 0.39555808  0.60444192]
+todo to be	[ 0.01569426  0.98430574]
+todo to be implemented	[ 0.01461866  0.98538134]
+to be implemented <UNK>	[ 0.49467806  0.50532194]
+todo to be implemented <UNK>	[  8.87191242e-04   9.99112809e-01]
+todo to be implemented <UNK> <UNK>	[ 0.01241838  0.98758162]
+
+**********************************sentence NO.=2395**************************************
+todo the subplot areas needs to be moved out of the plot into the plot state
+1
+[-12.04843521118164, 12.04837703704834]
+[3.426785938343002e-11, 1.0]
+todo	[ 0.02579102  0.97420898]
+into	[ 0.4815608  0.5184392]
+todo the	[ 0.05685425  0.94314575]
+moved out	[ 0.4667483  0.5332517]
+to be	[ 0.49833009  0.50166991]
+todo the <UNK>	[ 0.01462461  0.98537539]
+to be moved	[ 0.47886615  0.52113385]
+moved out of	[ 0.46627327  0.53372673]
+be moved out	[ 0.42980249  0.57019751]
+into the <UNK> state	[ 0.01719703  0.98280297]
+be moved out of	[ 0.45837274  0.54162726]
+areas needs to be	[ 0.47992467  0.52007533]
+moved out of the	[ 0.48569743  0.51430257]
+todo the <UNK> areas needs	[  1.03855377e-04   9.99896145e-01]
+todo the <UNK> areas needs to	[ 0.01000266  0.98999734]
+areas needs to be moved out	[ 0.41787137  0.58212863]
+needs to be moved out of	[ 0.47354331  0.52645669]
+the <UNK> areas needs to be	[ 0.49444973  0.50555027]
+
+**********************************sentence NO.=2396**************************************
+todo shift block down to bottom
+1
+[-10.700723648071289, 10.70067024230957]
+[5.075662112830059e-10, 1.0]
+todo	[ 0.01974133  0.98025867]
+to	[ 0.49835119  0.50164881]
+todo shift	[ 0.05850548  0.94149452]
+down to	[ 0.49800624  0.50199376]
+todo shift block	[ 0.01542605  0.98457395]
+todo shift block down	[ 0.02586849  0.97413151]
+shift block down to	[ 0.49941917  0.50058083]
+todo shift block down to	[  1.78006060e-04   9.99821994e-01]
+shift block down to bottom	[ 0.49211363  0.50788637]
+todo shift block down to bottom	[ 0.02835676  0.97164324]
+
+**********************************sentence NO.=2397**************************************
+todo it might be a good idea to keep a reference to the color specified in setpaint \( \) or setcolor \( \) , rather than creating a new object every time getpaint \( \) is called
+1
+[-12.46396541595459, 12.46390438079834]
+[1.4926697031181213e-11, 1.0]
+todo	[ 0.01406603  0.98593397]
+might	[ 0.46889827  0.53110173]
+todo it	[ 0.0440896  0.9559104]
+idea to	[ 0.46051221  0.53948779]
+it might	[ 0.48775295  0.51224705]
+todo it might	[ 0.01054606  0.98945394]
+reference to the	[ 0.49948359  0.50051641]
+to keep a	[ 0.48573534  0.51426466]
+color specified in	[ 0.49820022  0.50179978]
+it might be	[ 0.46992943  0.53007057]
+rather than creating	[ 0.45010422  0.54989578]
+todo it might be	[ 0.00639082  0.99360918]
+a good idea to	[ 0.49123904  0.50876096]
+it might be a	[ 0.47181782  0.52818218]
+might be a good	[ 0.49412982  0.50587018]
+todo it might be a	[  1.28230795e-04   9.99871769e-01]
+than creating a new object	[ 0.48752425  0.51247575]
+todo it might be a good	[ 0.00210595  0.99789405]
+be a good idea to keep	[ 0.443316  0.556684]
+might be a good idea to	[ 0.38239719  0.61760281]
+it might be a good idea	[ 0.38344532  0.61655468]
+
+**********************************sentence NO.=2398**************************************
+todo for now we are ignoring the height constraint
+1
+[-8.381425857543945, 8.381373405456543]
+[5.2481855306041325e-08, 1.0]
+todo	[ 0.01746854  0.98253146]
+todo for	[ 0.06087035  0.93912965]
+todo for now	[ 0.01147286  0.98852714]
+are ignoring the	[ 0.49090437  0.50909563]
+todo for now we	[ 0.02514215  0.97485785]
+height constraint <UNK> <UNK>	[ 0.48613975  0.51386025]
+todo for now we are	[  6.35033921e-04   9.99364966e-01]
+todo for now we are ignoring	[ 0.04166485  0.95833515]
+we are ignoring the height constraint	[ 0.49394753  0.50605247]
+
+**********************************sentence NO.=2399**************************************
+first determine the size of the chart rendering area todo workout insets for swt
+1
+[-10.058634757995605, 10.058579444885254]
+[1.8331789419789857e-09, 1.0]
+todo	[ 0.01516341  0.98483659]
+todo <UNK>	[ 0.04857042  0.95142958]
+area todo	[ 0.37931663  0.62068337]
+todo <UNK> insets	[ 0.01371894  0.98628106]
+rendering area todo	[ 0.47405205  0.52594795]
+todo <UNK> insets for	[ 0.0071421  0.9928579]
+todo <UNK> insets for <UNK>	[ 0.00106584  0.99893416]
+todo <UNK> insets for <UNK> <UNK>	[ 0.05933512  0.94066488]
+rendering area todo <UNK> insets for	[ 0.42889389  0.57110611]
+of the chart rendering area todo	[ 0.4625674  0.5374326]
+
+**********************************sentence NO.=2400**************************************
+todo implement properly
+1
+[-11.975934028625488, 11.975883483886719]
+[3.961486694237237e-11, 1.0]
+todo	[ 0.03002799  0.96997201]
+implement	[ 0.45453869  0.54546131]
+todo implement	[ 0.05924961  0.94075039]
+todo implement properly	[ 0.01675677  0.98324323]
+todo implement properly <UNK>	[ 0.03937758  0.96062242]
+todo implement properly <UNK> <UNK>	[ 0.00105837  0.99894163]
+todo implement properly <UNK> <UNK> <UNK>	[ 0.04000996  0.95999004]
+
+**********************************sentence NO.=2401**************************************
+todo this must be wrong
+1
+[-16.57993507385254, 16.579875946044922]
+[3.970783307060332e-15, 1.0]
+todo	[ 0.02732349  0.97267651]
+wrong	[ 0.49643543  0.50356457]
+todo this	[ 0.03452176  0.96547824]
+this must	[ 0.47732062  0.52267938]
+must be	[ 0.4986181  0.5013819]
+todo this must	[ 0.0092504  0.9907496]
+this must be	[ 0.40999824  0.59000176]
+todo this must be	[ 0.00929199  0.99070801]
+must be wrong <UNK>	[ 0.48599761  0.51400239]
+todo this must be wrong	[  2.44609424e-05   9.99975539e-01]
+todo this must be wrong <UNK>	[ 0.00201231  0.99798769]
+
+**********************************sentence NO.=2402**************************************
+todo we did n't check the width yet
+1
+[-10.749833106994629, 10.749780654907227]
+[4.6008274967590523e-10, 1.0]
+todo	[ 0.02137339  0.97862661]
+todo we	[ 0.0452654  0.9547346]
+todo we did	[ 0.01574546  0.98425454]
+did n't check	[ 0.48824479  0.51175521]
+did n't check the	[ 0.48915205  0.51084795]
+todo we did n't	[ 0.01917947  0.98082053]
+todo we did n't check	[  3.89129869e-04   9.99610870e-01]
+todo we did n't check the	[ 0.01473407  0.98526593]
+
+**********************************sentence NO.=2403**************************************
+hack to ensure the newly created awt fonts will be rendered with the same height as the swt one
+1
+[-5.698554039001465, 5.698520183563232]
+[1.1228168659727089e-05, 0.9999887943267822]
+hack	[ 0.00560288  0.99439712]
+hack to	[ 0.1334161  0.8665839]
+hack to ensure	[ 0.09441243  0.90558757]
+be rendered with	[ 0.39115376  0.60884624]
+awt fonts will be	[ 0.46858965  0.53141035]
+hack to ensure the	[ 0.11882925  0.88117075]
+hack to ensure the newly	[ 0.01910094  0.98089906]
+fonts will be rendered with	[ 0.47121027  0.52878973]
+to ensure the newly created	[ 0.49359095  0.50640905]
+hack to ensure the newly created	[ 0.14133742  0.85866258]
+awt fonts will be rendered with	[ 0.1537924  0.8462076]
+
+**********************************sentence NO.=2404**************************************
+todo shift block right by half
+1
+[-10.360723495483398, 10.360669136047363]
+[1.0018739171613333e-09, 1.0]
+todo	[ 0.02102963  0.97897037]
+todo shift	[ 0.06156242  0.93843758]
+todo shift block	[ 0.01549862  0.98450138]
+todo shift block right	[ 0.03778509  0.96221491]
+shift block right by	[ 0.48390901  0.51609099]
+todo shift block right by	[  3.50300898e-04   9.99649699e-01]
+todo shift block right by half	[ 0.05288328  0.94711672]
+
+**********************************sentence NO.=2406**************************************
+todo shift block over to right
+1
+[-11.304884910583496, 11.304834365844727]
+[1.5160868394037408e-10, 1.0]
+todo	[ 0.02303639  0.97696361]
+to	[ 0.49835119  0.50164881]
+todo shift	[ 0.04925903  0.95074097]
+to right	[ 0.49969598  0.50030402]
+todo shift block	[ 0.0132492  0.9867508]
+todo shift block over	[ 0.01916532  0.98083468]
+todo shift block over to	[  1.60065989e-04   9.99839934e-01]
+todo shift block over to right	[ 0.04492487  0.95507513]
+
+**********************************sentence NO.=2408**************************************
+todo find a better localization key
+1
+[-10.972848892211914, 10.972797393798828]
+[2.9452820737851937e-10, 1.0]
+todo	[ 0.02057331  0.97942669]
+todo find	[ 0.04538812  0.95461188]
+find a	[ 0.49993542  0.50006458]
+todo find a	[ 0.01376172  0.98623828]
+todo find a better	[ 0.02411592  0.97588408]
+todo find a better localization	[  1.19584536e-04   9.99880415e-01]
+todo find a better localization key	[ 0.01289966  0.98710034]
+
+**********************************sentence NO.=2409**************************************
+todo this attribute should be transferred to the renderer state
+1
+[-14.247275352478027, 14.247217178344727]
+[4.216960439694384e-13, 1.0]
+todo	[ 0.02337705  0.97662295]
+to	[ 0.49835119  0.50164881]
+todo this	[ 0.02618163  0.97381837]
+attribute should	[ 0.4891632  0.5108368]
+should be	[ 0.4985562  0.5014438]
+todo this attribute	[ 0.00960491  0.99039509]
+attribute should be	[ 0.48226893  0.51773107]
+should be transferred	[ 0.4608032  0.5391968]
+todo this attribute should	[ 0.00886375  0.99113625]
+this attribute should be	[ 0.43563758  0.56436242]
+todo this attribute should be	[  4.72068618e-05   9.99952793e-01]
+this attribute should be transferred	[ 0.40328798  0.59671202]
+todo this attribute should be transferred	[  9.79950441e-04   9.99020050e-01]
+this attribute should be transferred to	[ 0.3239878  0.6760122]
+
+**********************************sentence NO.=2410**************************************
+fixme implement this , low priority
+1
+[-0.08248265832662582, 0.0824722871184349]
+[0.4588545262813568, 0.5411455035209656]
+implement	[ 0.31378575  0.68621425]
+this	[ 0.48988407  0.51011593]
+this low	[ 0.49775291  0.50224709]
+implement this	[ 0.44518229  0.55481771]
+implement this low	[ 0.3922644  0.6077356]
+fixme implement this low	[ 0.35251771  0.64748229]
+implement this low priority	[ 0.36924555  0.63075445]
+fixme implement this low priority	[ 0.20263684  0.79736316]
+
+**********************************sentence NO.=2413**************************************
+calculate the adjusted data area taking into account the 3d effect this assumes that there is a 3d renderer , all this 3d effect is a bit of an ugly hack
+1
+[-7.498841762542725, 7.49880313873291]
+[3.066236331505934e-07, 0.9999996423721313]
+hack	[ 0.00401019  0.99598981]
+ugly	[ 0.48665554  0.51334446]
+bit	[ 0.44441887  0.55558113]
+hack <UNK>	[ 0.16176934  0.83823066]
+is a	[ 0.49660265  0.50339735]
+ugly hack	[ 0.20642809  0.79357191]
+a bit of	[ 0.47803368  0.52196632]
+data area taking	[ 0.49878234  0.50121766]
+hack <UNK> <UNK>	[ 0.06412613  0.93587387]
+area taking into	[ 0.42934772  0.57065228]
+renderer all this <UNK>	[ 0.28076253  0.71923747]
+<UNK> effect is a	[ 0.45572985  0.54427015]
+the <UNK> effect this	[ 0.19272708  0.80727292]
+effect is a bit	[ 0.39928241  0.60071759]
+an ugly hack <UNK> <UNK>	[ 0.12649764  0.87350236]
+<UNK> effect is a bit	[ 0.18308888  0.81691112]
+a bit of an ugly	[ 0.39445314  0.60554686]
+is a bit of an	[ 0.34280669  0.65719331]
+a <UNK> renderer all this <UNK>	[ 0.48342228  0.51657772]
+effect is a bit of an	[ 0.38095073  0.61904927]
+<UNK> effect is a bit of	[ 0.12020294  0.87979706]
+is a bit of an ugly	[ 0.2211101  0.7788899]
+taking into account the <UNK> effect	[ 0.3484539  0.6515461]
+
+**********************************sentence NO.=2414**************************************
+todo add constructors for combinations of number and date formatters
+1
+[-13.82791519165039, 13.827851295471191]
+[9.755591516905082e-13, 1.0]
+todo	[ 0.01646577  0.98353423]
+todo add	[ 0.04081037  0.95918963]
+todo add constructors	[ 0.00677848  0.99322152]
+todo add constructors for	[ 0.00193576  0.99806424]
+todo add constructors for combinations	[  8.68987336e-06   9.99991310e-01]
+todo add constructors for combinations of	[ 0.0137429  0.9862571]
+
+**********************************sentence NO.=2415**************************************
+todo move to plot state
+1
+[-13.511863708496094, 13.51180648803711]
+[1.83556251795447e-12, 1.0]
+todo	[ 0.02535755  0.97464245]
+todo move	[ 0.03260724  0.96739276]
+move to	[ 0.49024771  0.50975229]
+todo move to	[ 0.00935575  0.99064425]
+todo move to <UNK>	[ 0.01578092  0.98421908]
+todo move to <UNK> state	[  7.91312632e-05   9.99920869e-01]
+todo move to <UNK> state <UNK>	[ 0.01547721  0.98452279]
+
+**********************************sentence NO.=2422**************************************
+todo complete this
+1
+[-12.238394737243652, 12.2383451461792]
+[2.343618528410918e-11, 1.0]
+todo	[ 0.02652506  0.97347494]
+todo complete	[ 0.09345924  0.90654076]
+complete this	[ 0.49934373  0.50065627]
+todo complete this	[ 0.01738509  0.98261491]
+complete this <UNK> <UNK>	[ 0.02476618  0.97523382]
+todo complete this <UNK> <UNK>	[  7.69198616e-04   9.99230801e-01]
+todo complete this <UNK> <UNK> <UNK>	[ 0.033392  0.966608]
+
+**********************************sentence NO.=2423**************************************
+todo fix output when this flag is set to true
+1
+[-10.613203048706055, 10.613144874572754]
+[6.046635414591606e-10, 1.0]
+todo	[ 0.01856671  0.98143329]
+fix	[ 0.46660455  0.53339545]
+todo fix	[ 0.04113706  0.95886294]
+is set	[ 0.4992579  0.5007421]
+this flag	[ 0.47597173  0.52402827]
+set to	[ 0.49481592  0.50518408]
+todo fix output	[ 0.00603607  0.99396393]
+this flag is	[ 0.49420426  0.50579574]
+todo fix output when	[ 0.00487645  0.99512355]
+when this flag is	[ 0.49206023  0.50793977]
+this flag is set	[ 0.49796923  0.50203077]
+todo fix output when this	[  1.80861433e-04   9.99819139e-01]
+todo fix output when this flag	[ 0.02066119  0.97933881]
+fix output when this flag is	[ 0.45345116  0.54654884]
+
+**********************************sentence NO.=2424**************************************
+todo move the above to the plot state
+1
+[-14.089489936828613, 14.089428901672363]
+[5.781639815342909e-13, 1.0]
+todo	[ 0.02416774  0.97583226]
+todo move	[ 0.03260724  0.96739276]
+todo move the	[ 0.01340966  0.98659034]
+todo move the above	[ 0.0049157  0.9950843]
+todo move the above to	[  9.68477374e-06   9.99990315e-01]
+todo move the above to the	[ 0.00519087  0.99480913]
+
+**********************************sentence NO.=2426**************************************
+end of workaround
+1
+[-2.84383225440979, 2.843813896179199]
+[0.003376121399924159, 0.9966238737106323]
+workaround	[ 0.0325192  0.9674808]
+workaround <UNK>	[ 0.33702905  0.66297095]
+workaround <UNK> <UNK>	[ 0.21381902  0.78618098]
+end of workaround <UNK>	[ 0.26611056  0.73388944]
+end of workaround <UNK> <UNK>	[ 0.42595887  0.57404113]
+
+**********************************sentence NO.=2427**************************************
+todo could change this to itemfillpaint \( \) for backwards compatibility , it might require a usefillpaint flag
+1
+[-14.401721000671387, 14.401662826538086]
+[3.096347776700842e-13, 1.0]
+todo	[ 0.01838833  0.98161167]
+might	[ 0.4814992  0.5185008]
+could	[ 0.46204136  0.53795864]
+todo could	[ 0.0526606  0.9473394]
+this to	[ 0.47402946  0.52597054]
+could change	[ 0.48418633  0.51581367]
+todo could change	[ 0.00708374  0.99291626]
+change this to	[ 0.49433925  0.50566075]
+todo could change this	[ 0.00285548  0.99714452]
+could change this to	[ 0.46436301  0.53563699]
+todo could change this to	[  1.80854499e-05   9.99981915e-01]
+todo could change this to <UNK>	[ 0.00826911  0.99173089]
+backwards compatibility it might require a	[ 0.48163745  0.51836255]
+could change this to <UNK> for	[ 0.49393101  0.50606899]
+for backwards compatibility it might require	[ 0.34606377  0.65393623]
+<UNK> for backwards compatibility it might	[ 0.49303605  0.50696395]
+
+**********************************sentence NO.=2430**************************************
+todo in jfreechart 1 2 0 , put this method in the categoryitemrenderer interface
+1
+[-9.45860767364502, 9.4585542678833]
+[6.086686266115748e-09, 1.0]
+todo	[ 0.01514953  0.98485047]
+todo in	[ 0.07551295  0.92448705]
+this method	[ 0.49273069  0.50726931]
+put this	[ 0.49832348  0.50167652]
+todo in <UNK>	[ 0.0188878  0.9811122]
+this method in	[ 0.44754543  0.55245457]
+todo in <UNK> 1	[ 0.01365675  0.98634325]
+todo in <UNK> 1 2	[  4.61988726e-04   9.99538011e-01]
+put this method in the	[ 0.41486423  0.58513577]
+<UNK> 1 2 0 put	[ 0.47654446  0.52345554]
+todo in <UNK> 1 2 0	[ 0.07430405  0.92569595]
+<UNK> 1 2 0 put this	[ 0.49674871  0.50325129]
+2 0 put this method in	[ 0.4795264  0.5204736]
+
+**********************************sentence NO.=2431**************************************
+todo rotate the image when drawn with horizontal orientation \?
+1
+[-10.599259376525879, 10.599206924438477]
+[6.217598103042121e-10, 1.0]
+todo	[ 0.01744161  0.98255839]
+todo <UNK>	[ 0.11804922  0.88195078]
+drawn with	[ 0.4954214  0.5045786]
+todo <UNK> the	[ 0.01259582  0.98740418]
+image when drawn	[ 0.45195509  0.54804491]
+todo <UNK> the image	[ 0.01437299  0.98562701]
+<UNK> the image when	[ 0.48784571  0.51215429]
+todo <UNK> the image when	[  2.64450537e-04   9.99735549e-01]
+todo <UNK> the image when drawn	[ 0.01610138  0.98389862]
+<UNK> the image when drawn with	[ 0.46357929  0.53642071]
+
+**********************************sentence NO.=2432**************************************
+todo implement this properly
+1
+[-15.162946701049805, 15.162894248962402]
+[6.755461804102553e-14, 1.0]
+todo	[ 0.02970494  0.97029506]
+implement	[ 0.45453869  0.54546131]
+todo implement	[ 0.05936593  0.94063407]
+this properly	[ 0.4943574  0.5056426]
+implement this	[ 0.49533485  0.50466515]
+todo implement this	[ 0.00651262  0.99348738]
+implement this properly	[ 0.49541615  0.50458385]
+todo implement this properly	[ 0.00574463  0.99425537]
+implement this properly <UNK>	[ 0.49843113  0.50156887]
+todo implement this properly <UNK>	[  3.01844435e-04   9.99698156e-01]
+todo implement this properly <UNK> <UNK>	[ 0.006409  0.993591]
+
+**********************************sentence NO.=2436**************************************
+fixme this attribute is not used deprecate \?
+1
+[-0.5896010994911194, 0.5895911455154419]
+[0.23519745469093323, 0.7648025155067444]
+this	[ 0.48757773  0.51242227]
+used	[ 0.47633579  0.52366421]
+used deprecate	[ 0.48910915  0.51089085]
+this attribute	[ 0.46698741  0.53301259]
+not used	[ 0.43808242  0.56191758]
+not used deprecate	[ 0.3863973  0.6136027]
+is not used	[ 0.49336076  0.50663924]
+is not used deprecate	[ 0.4725426  0.5274574]
+this attribute is not	[ 0.4004235  0.5995765]
+fixme this attribute is not	[ 0.46385609  0.53614391]
+<UNK> <UNK> <UNK> <UNK> <UNK>	[ 0.44542876  0.55457124]
+this attribute is not used	[ 0.45363942  0.54636058]
+fixme this attribute is not used	[ 0.09444353  0.90555647]
+this attribute is not used deprecate	[ 0.38895537  0.61104463]
+
+**********************************sentence NO.=2437**************************************
+todo by coding the event with some information about what changed in the dataset , we could make the recalculation of the interval more efficient in some cases \( for instance , if the change is just an update to a y value , then the x interval does n't need updating \)
+1
+[-9.109698295593262, 9.109637260437012]
+[1.22304681937635e-08, 1.0]
+todo	[ 0.0122429  0.9877571]
+cases	[ 0.48862325  0.51137675]
+efficient	[ 0.4694535  0.5305465]
+x	[ 0.49531597  0.50468403]
+todo by	[ 0.0507069  0.9492931]
+is just	[ 0.47580487  0.52419513]
+we could	[ 0.47284369  0.52715631]
+x interval	[ 0.48141886  0.51858114]
+update to	[ 0.48862404  0.51137596]
+todo by coding	[ 0.00814635  0.99185365]
+to a y	[ 0.48176014  0.51823986]
+need updating <UNK>	[ 0.49717623  0.50282377]
+is just an	[ 0.40625757  0.59374243]
+interval does n't	[ 0.49184417  0.50815583]
+todo by coding the	[ 0.01572378  0.98427622]
+is just an update	[ 0.46587093  0.53412907]
+the x interval does	[ 0.49200605  0.50799395]
+could make the recalculation	[ 0.48952906  0.51047094]
+x interval does n't	[ 0.48387824  0.51612176]
+todo by coding the event	[  5.80395979e-04   9.99419604e-01]
+a y value then the	[ 0.41936398  0.58063602]
+the dataset we could make	[ 0.46089846  0.53910154]
+todo by coding the event with	[ 0.01528076  0.98471924]
+recalculation of the interval more efficient	[ 0.18591816  0.81408184]
+a y value then the x	[ 0.45711571  0.54288429]
+change is just an update to	[ 0.45507216  0.54492784]
+efficient in some cases for instance	[ 0.47585069  0.52414931]
+in some cases for instance if	[ 0.43603456  0.56396544]
+
+**********************************sentence NO.=2440**************************************
+todo this needs to move into the renderer state
+1
+[-14.407172203063965, 14.407109260559082]
+[3.0627854852999237e-13, 1.0]
+todo	[ 0.020829  0.979171]
+into	[ 0.48393853  0.51606147]
+todo this	[ 0.02618163  0.97381837]
+this needs	[ 0.48398885  0.51601115]
+todo this needs	[ 0.00555964  0.99444036]
+to move into	[ 0.43458297  0.56541703]
+this needs to	[ 0.4531858  0.5468142]
+todo this needs to	[ 0.00959079  0.99040921]
+this needs to move	[ 0.4747987  0.5252013]
+to move into the	[ 0.49976524  0.50023476]
+todo this needs to move	[  4.37371606e-05   9.99956263e-01]
+todo this needs to move into	[ 0.0024286  0.9975714]
+this needs to move into the	[ 0.47158607  0.52841393]
+to move into the renderer state	[ 0.31677406  0.68322594]
+
+**********************************sentence NO.=2441**************************************
+todo implement this method properly
+1
+[-14.952404975891113, 14.952349662780762]
+[1.0292717470428842e-13, 1.0]
+todo	[ 0.02320317  0.97679683]
+implement	[ 0.45453869  0.54546131]
+todo implement	[ 0.06096276  0.93903724]
+implement this	[ 0.49583886  0.50416114]
+todo implement this	[ 0.00726932  0.99273068]
+this method properly	[ 0.4034423  0.5965577]
+todo implement this method	[ 0.00543935  0.99456065]
+todo implement this method properly	[  8.46375628e-05   9.99915362e-01]
+todo implement this method properly <UNK>	[ 0.00770357  0.99229643]
+
+**********************************sentence NO.=2442**************************************
+hack to ensure the newly created swt fonts will be rendered with the same height as the awt one
+1
+[-5.673156261444092, 5.67311954498291]
+[1.1813269338745158e-05, 0.9999881982803345]
+hack	[ 0.00560288  0.99439712]
+hack to	[ 0.13307999  0.86692001]
+hack to ensure	[ 0.09441243  0.90558757]
+same height as	[ 0.49844677  0.50155323]
+rendered with the	[ 0.49609554  0.50390446]
+be rendered with	[ 0.38985897  0.61014103]
+hack to ensure the	[ 0.11852486  0.88147514]
+<UNK> fonts will be	[ 0.39954754  0.60045246]
+created <UNK> fonts will	[ 0.49654591  0.50345409]
+hack to ensure the newly	[ 0.02101692  0.97898308]
+fonts will be rendered with	[ 0.47121027  0.52878973]
+hack to ensure the newly created	[ 0.12574881  0.87425119]
+<UNK> fonts will be rendered with	[ 0.11106905  0.88893095]
+will be rendered with the same	[ 0.45966138  0.54033862]
+
+**********************************sentence NO.=2445**************************************
+if we are rendering the values as percentages , we need to calculate the total for the current item unfortunately here we end up repeating the calculation more times than is strictly necessary hopefully i 'll come back to this and find a way to add the total \( s \) to the renderer state the other problem is we implicitly assume the dataset has no negative values perhaps that can be fixed too
+1
+[-0.13035987317562103, 0.13033626973628998]
+[0.4351925849914551, 0.5648074150085449]
+problem	[ 0.48528539  0.51471461]
+way	[ 0.42107531  0.57892469]
+perhaps	[ 0.30466513  0.69533487]
+necessary	[ 0.42838241  0.57161759]
+this	[ 0.48988407  0.51011593]
+i	[ 0.4955838  0.5044162]
+values	[ 0.46528665  0.53471335]
+way to	[ 0.46116831  0.53883169]
+values as	[ 0.43573137  0.56426863]
+perhaps that	[ 0.46069254  0.53930746]
+hopefully i	[ 0.46814181  0.53185819]
+i 'll	[ 0.48102534  0.51897466]
+find a	[ 0.49804012  0.50195988]
+be fixed	[ 0.47066064  0.52933936]
+strictly necessary hopefully	[ 0.47767311  0.52232689]
+is strictly necessary	[ 0.41925475  0.58074525]
+this and find	[ 0.45734946  0.54265054]
+i 'll come	[ 0.48313732  0.51686268]
+unfortunately here we	[ 0.42614639  0.57385361]
+perhaps that can	[ 0.4404733  0.5595267]
+we implicitly assume	[ 0.48092643  0.51907357]
+find a way	[ 0.43549619  0.56450381]
+strictly necessary hopefully i	[ 0.44032652  0.55967348]
+values perhaps that can	[ 0.47168631  0.52831369]
+perhaps that can be	[ 0.39771057  0.60228943]
+we are rendering the	[ 0.3008946  0.6991054]
+that can be fixed	[ 0.46915362  0.53084638]
+the other problem is	[ 0.47954778  0.52045222]
+'ll come back to	[ 0.43206272  0.56793728]
+can be fixed too	[ 0.47772708  0.52227292]
+unfortunately here we end up	[ 0.42688904  0.57311096]
+hopefully i 'll come back	[ 0.44156452  0.55843548]
+times than is strictly necessary	[ 0.47104086  0.52895914]
+is strictly necessary hopefully i	[ 0.40033457  0.59966543]
+strictly necessary hopefully i 'll	[ 0.40464505  0.59535495]
+s to the renderer state	[ 0.41905921  0.58094079]
+more times than is strictly	[ 0.47635072  0.52364928]
+that can be fixed too	[ 0.46903103  0.53096897]
+calculation more times than is	[ 0.4289967  0.5710033]
+is strictly necessary hopefully i 'll	[ 0.24881009  0.75118991]
+has no negative values perhaps that	[ 0.40507037  0.59492963]
+no negative values perhaps that can	[ 0.43034226  0.56965774]
+perhaps that can be fixed too	[ 0.40558316  0.59441684]
+values perhaps that can be fixed	[ 0.42832025  0.57167975]
+necessary hopefully i 'll come back	[ 0.41192628  0.58807372]
+strictly necessary hopefully i 'll come	[ 0.37006932  0.62993068]
+to add the total s to	[ 0.37771919  0.62228081]
+calculation more times than is strictly	[ 0.39494284  0.60505716]
+
+**********************************sentence NO.=2446**************************************
+note it would be nice to pre calculate this per series
+1
+[-0.6243756413459778, 0.6243634819984436]
+[0.22291848063468933, 0.7770814895629883]
+this	[ 0.47901769  0.52098231]
+nice	[ 0.49839013  0.50160987]
+would	[ 0.493658  0.506342]
+be nice	[ 0.37922204  0.62077796]
+it would	[ 0.49421181  0.50578819]
+nice to	[ 0.49513898  0.50486102]
+it would be	[ 0.4388071  0.5611929]
+be nice to	[ 0.43434947  0.56565053]
+would be nice	[ 0.42278611  0.57721389]
+it would be nice	[ 0.27178276  0.72821724]
+would be nice to	[ 0.45740294  0.54259706]
+be nice to pre	[ 0.47603499  0.52396501]
+note it would be nice	[ 0.49359177  0.50640823]
+it would be nice to	[ 0.28966411  0.71033589]
+nice to pre calculate this	[ 0.41902079  0.58097921]
+note it would be nice to	[ 0.15977527  0.84022473]
+it would be nice to pre	[ 0.17094904  0.82905096]
+would be nice to pre calculate	[ 0.26664065  0.73335935]
+
+**********************************sentence NO.=2451**************************************
+now handle specific plot types \( and yes , i know this is some really ugly code that has to be manually updated any time a new plot type is added i should have written something much cooler , but i did n't and neither did anyone else \)
+1
+[-3.951174259185791, 3.951146364212036]
+[0.0003697472857311368, 0.9996302127838135]
+code	[ 0.46807187  0.53192813]
+ugly	[ 0.08770403  0.91229597]
+i	[ 0.46912949  0.53087051]
+something	[ 0.4971281  0.5028719]
+code that	[ 0.46299763  0.53700237]
+is some	[ 0.46726374  0.53273626]
+really ugly	[ 0.41647307  0.58352693]
+yes i	[ 0.45567228  0.54432772]
+ugly code	[ 0.23562049  0.76437951]
+time a	[ 0.49902116  0.50097884]
+has to	[ 0.4912516  0.5087484]
+yes i know	[ 0.4888429  0.5111571]
+be manually updated	[ 0.46409139  0.53590861]
+any time a	[ 0.49523559  0.50476441]
+i should have	[ 0.49254228  0.50745772]
+code that has	[ 0.49887786  0.50112214]
+is some really	[ 0.34311507  0.65688493]
+ugly code that	[ 0.37909167  0.62090833]
+really ugly code	[ 0.45434734  0.54565266]
+<UNK> type is	[ 0.48947588  0.51052412]
+to be manually updated	[ 0.43083903  0.56916097]
+i know this is	[ 0.44808159  0.55191841]
+some really ugly code	[ 0.42960752  0.57039248]
+ugly code that has	[ 0.30360359  0.69639641]
+know this is some	[ 0.47815234  0.52184766]
+and yes i know	[ 0.46052924  0.53947076]
+really ugly code that	[ 0.4659957  0.5340043]
+neither did anyone else	[ 0.47593862  0.52406138]
+ugly code that has to	[ 0.36850754  0.63149246]
+did n't and neither did	[ 0.48591217  0.51408783]
+i did n't and neither	[ 0.37933203  0.62066797]
+is some really ugly code	[ 0.25220385  0.74779615]
+<UNK> type is added i	[ 0.33605967  0.66394033]
+yes i know this is	[ 0.41206804  0.58793196]
+some really ugly code that	[ 0.44377316  0.55622684]
+really ugly code that has	[ 0.47005776  0.52994224]
+this is some really ugly code	[ 0.25454649  0.74545351]
+yes i know this is some	[ 0.44361625  0.55638375]
+know this is some really ugly	[ 0.46286947  0.53713053]
+i should have written something much	[ 0.29469712  0.70530288]
+really ugly code that has to	[ 0.36576216  0.63423784]
+<UNK> types and yes i know	[ 0.45279111  0.54720889]
+is some really ugly code that	[ 0.33716478  0.66283522]
+that has to be manually updated	[ 0.48042588  0.51957412]
+ugly code that has to be	[ 0.45437861  0.54562139]
+
+**********************************sentence NO.=2452**************************************
+todo urlencode \?
+1
+[-11.292060852050781, 11.292014122009277]
+[1.5554656174199266e-10, 1.0]
+todo	[ 0.02987457  0.97012543]
+todo urlencode	[ 0.09055466  0.90944534]
+todo urlencode <UNK>	[ 0.03159939  0.96840061]
+todo urlencode <UNK> <UNK>	[ 0.04398738  0.95601262]
+todo urlencode <UNK> <UNK> <UNK>	[ 0.00161432  0.99838568]
+todo urlencode <UNK> <UNK> <UNK> <UNK>	[ 0.05643302  0.94356698]
+
+**********************************sentence NO.=2453**************************************
+todo revert to svn revision 2469 in jfreechart 1 0 16 \( multiplegradientpaint 's jdk issues \) todo then change visibility of all darker \( \) methods except darker \( paint \) to private !
+1
+[-11.045806884765625, 11.045743942260742]
+[2.545431088130101e-10, 1.0]
+todo	[ 0.02047852  0.97952148]
+revision	[ 0.31660323  0.68339677]
+jdk	[ 0.48540222  0.51459778]
+todo revert	[ 0.03300354  0.96699646]
+of all	[ 0.49896447  0.50103553]
+issues todo	[ 0.45598222  0.54401778]
+todo revert to	[ 0.00792022  0.99207978]
+todo revert to svn	[ 0.01082829  0.98917171]
+issues todo then change	[ 0.49743911  0.50256089]
+'s jdk issues todo	[ 0.49804348  0.50195652]
+jdk issues todo then	[ 0.4645412  0.5354588]
+todo revert to svn revision	[  4.04720352e-05   9.99959528e-01]
+jdk issues todo then change	[ 0.45127056  0.54872944]
+todo revert to svn revision <UNK>	[ 0.00353358  0.99646642]
+jdk issues todo then change visibility	[ 0.4876563  0.5123437]
+
+**********************************sentence NO.=2454**************************************
+todo replace getsize by getbounds \?
+1
+[-12.11262035369873, 12.112564086914062]
+[3.0139470780232713e-11, 1.0]
+todo	[ 0.02303277  0.97696723]
+todo replace	[ 0.03976703  0.96023297]
+todo replace getsize	[ 0.01113556  0.98886444]
+todo replace getsize by	[ 0.00757568  0.99242432]
+todo replace getsize by getbounds	[  2.05491361e-04   9.99794509e-01]
+todo replace getsize by getbounds <UNK>	[ 0.07590835  0.92409165]
+
+**********************************sentence NO.=2455**************************************
+todo check threshold
+1
+[-10.320454597473145, 10.320402145385742]
+[1.085898926334039e-09, 1.0]
+todo	[ 0.02117986  0.97882014]
+todo check	[ 0.07259882  0.92740118]
+todo check threshold	[ 0.01951566  0.98048434]
+todo check threshold <UNK>	[ 0.04452964  0.95547036]
+todo check threshold <UNK> <UNK>	[ 0.00218418  0.99781582]
+todo check threshold <UNK> <UNK> <UNK>	[ 0.0647668  0.9352332]
+
+**********************************sentence NO.=2458**************************************
+now we handle some special cases yes , ugly code alert !
+1
+[-2.45408034324646, 2.454058885574341]
+[0.007332063280045986, 0.9926679730415344]
+code	[ 0.4853754  0.5146246]
+ugly	[ 0.08857298  0.91142702]
+ugly code	[ 0.1493019  0.8506981]
+some special cases	[ 0.4845098  0.5154902]
+ugly code alert	[ 0.38839861  0.61160139]
+yes ugly code	[ 0.42750138  0.57249862]
+yes ugly code alert	[ 0.45364457  0.54635543]
+ugly code alert <UNK>	[ 0.39947235  0.60052765]
+handle some special cases	[ 0.40086258  0.59913742]
+we handle some special	[ 0.47322403  0.52677597]
+now we handle some special	[ 0.41917509  0.58082491]
+yes ugly code alert <UNK>	[ 0.31594062  0.68405938]
+handle some special cases yes	[ 0.26779762  0.73220238]
+some special cases yes ugly	[ 0.48192741  0.51807259]
+cases yes ugly code alert	[ 0.48813784  0.51186216]
+special cases yes ugly code	[ 0.45664322  0.54335678]
+some special cases yes ugly code	[ 0.38234048  0.61765952]
+handle some special cases yes ugly	[ 0.31292343  0.68707657]
+
+**********************************sentence NO.=2460**************************************
+todo need to fetch this from localised resources
+1
+[-13.976412773132324, 13.976358413696289]
+[7.24880008448614e-13, 1.0]
+todo	[ 0.01800939  0.98199061]
+need	[ 0.49114055  0.50885945]
+todo need	[ 0.03966693  0.96033307]
+need to	[ 0.49688936  0.50311064]
+to fetch	[ 0.49285882  0.50714118]
+todo need to	[ 0.00622749  0.99377251]
+this from localised	[ 0.498014  0.501986]
+to fetch this	[ 0.47052279  0.52947721]
+todo need to fetch	[ 0.00411635  0.99588365]
+todo need to fetch this	[  7.19267105e-05   9.99928073e-01]
+todo need to fetch this from	[ 0.00635543  0.99364457]
+need to fetch this from localised	[ 0.46026582  0.53973418]
+to fetch this from localised resources	[ 0.42294565  0.57705435]
+
+**********************************sentence NO.=2462**************************************
+here we could probably be a little faster by searching for both indices simultaneously , but i 'll look at that later if it seems like it matters
+1
+[-0.8119941353797913, 0.8119741082191467]
+[0.1646583378314972, 0.8353416919708252]
+could	[ 0.49214663  0.50785337]
+probably	[ 0.31367443  0.68632557]
+i	[ 0.46169055  0.53830945]
+it seems	[ 0.47156202  0.52843798]
+probably be	[ 0.43119751  0.56880249]
+but i	[ 0.48608615  0.51391385]
+i 'll	[ 0.45821891  0.54178109]
+simultaneously but	[ 0.49294168  0.50705832]
+could probably	[ 0.4577223  0.5422777]
+i 'll look	[ 0.4991475  0.5008525]
+a little faster	[ 0.39108651  0.60891349]
+could probably be	[ 0.40178627  0.59821373]
+we could probably	[ 0.46981655  0.53018345]
+probably be a	[ 0.44146963  0.55853037]
+it seems like	[ 0.44485754  0.55514246]
+'ll look at	[ 0.49942656  0.50057344]
+probably be a little	[ 0.39916977  0.60083023]
+i 'll look at	[ 0.32505813  0.67494187]
+we could probably be	[ 0.38661843  0.61338157]
+seems like it matters	[ 0.38248567  0.61751433]
+could probably be a	[ 0.48340109  0.51659891]
+by searching for both	[ 0.45762465  0.54237535]
+but i 'll look	[ 0.49254667  0.50745333]
+here we could probably be	[ 0.47343023  0.52656977]
+i 'll look at that	[ 0.19107921  0.80892079]
+could probably be a little	[ 0.19963441  0.80036559]
+little faster by searching for	[ 0.460879  0.539121]
+here we could probably be a	[ 0.43168948  0.56831052]
+but i 'll look at that	[ 0.17974928  0.82025072]
+i 'll look at that later	[ 0.28206623  0.71793377]
+could probably be a little faster	[ 0.41962609  0.58037391]
+indices simultaneously but i 'll look	[ 0.43584466  0.56415534]
+a little faster by searching for	[ 0.4211693  0.5788307]
+
+**********************************sentence NO.=2463**************************************
+todo complete this
+1
+[-12.238394737243652, 12.2383451461792]
+[2.343618528410918e-11, 1.0]
+todo	[ 0.02652506  0.97347494]
+todo complete	[ 0.09345924  0.90654076]
+complete this	[ 0.49934373  0.50065627]
+todo complete this	[ 0.01738509  0.98261491]
+complete this <UNK> <UNK>	[ 0.02476618  0.97523382]
+todo complete this <UNK> <UNK>	[  7.69198616e-04   9.99230801e-01]
+todo complete this <UNK> <UNK> <UNK>	[ 0.033392  0.966608]
+
+**********************************sentence NO.=2464**************************************
+fixme this attribute is never used deprecate \?
+1
+[-0.6175742745399475, 0.6175636053085327]
+[0.2252834439277649, 0.7747166156768799]
+this	[ 0.48757773  0.51242227]
+used	[ 0.47633579  0.52366421]
+used deprecate	[ 0.48910915  0.51089085]
+this attribute	[ 0.48887542  0.51112458]
+never used	[ 0.43940202  0.56059798]
+is never used	[ 0.44107688  0.55892312]
+is never used deprecate	[ 0.49980755  0.50019245]
+this attribute is never	[ 0.41209195  0.58790805]
+fixme this attribute is never	[ 0.28792954  0.71207046]
+<UNK> <UNK> <UNK> <UNK> <UNK>	[ 0.45526019  0.54473981]
+this attribute is never used	[ 0.48526901  0.51473099]
+fixme this attribute is never used	[ 0.06253471  0.93746529]
+this attribute is never used deprecate	[ 0.4313798  0.5686202]
+
+**********************************sentence NO.=2467**************************************
+this may be obsolete \( not used anywhere \)
+1
+[-0.6993625164031982, 0.699354350566864]
+[0.19801978766918182, 0.801980197429657]
+obsolete	[ 0.40641581  0.59358419]
+used	[ 0.47633579  0.52366421]
+used anywhere	[ 0.47560386  0.52439614]
+obsolete not	[ 0.49643623  0.50356377]
+not used	[ 0.43808242  0.56191758]
+this may be	[ 0.4532295  0.5467705]
+may be obsolete	[ 0.42470118  0.57529882]
+be obsolete not	[ 0.42007633  0.57992367]
+this may be obsolete	[ 0.37062315  0.62937685]
+may be obsolete not	[ 0.48211886  0.51788114]
+obsolete not used anywhere	[ 0.35284101  0.64715899]
+this may be obsolete not	[ 0.3765082  0.6234918]
+be obsolete not used anywhere	[ 0.48183174  0.51816826]
+may be obsolete not used	[ 0.44631544  0.55368456]
+this may be obsolete not used	[ 0.32297417  0.67702583]
+may be obsolete not used anywhere	[ 0.4425715  0.5574285]
+
+**********************************sentence NO.=2468**************************************
+todo is this a good idea \?
+1
+[-14.055403709411621, 14.055350303649902]
+[6.189486857072213e-13, 1.0]
+todo	[ 0.02369457  0.97630543]
+todo is	[ 0.08768795  0.91231205]
+this a	[ 0.48949947  0.51050053]
+is this	[ 0.46836194  0.53163806]
+todo is this	[ 0.02163755  0.97836245]
+is this a	[ 0.45917423  0.54082577]
+this a good	[ 0.48842008  0.51157992]
+todo is this a	[ 0.01262092  0.98737908]
+this a good idea	[ 0.45079997  0.54920003]
+todo is this a good	[  1.05191846e-04   9.99894808e-01]
+is this a good idea	[ 0.46231619  0.53768381]
+todo is this a good idea	[ 0.00503265  0.99496735]
+
+**********************************sentence NO.=2469**************************************
+a kludge to make everything work when no rows returned
+1
+[-2.9939234256744385, 2.993903160095215]
+[0.002502832096070051, 0.9974971413612366]
+kludge	[ 0.32699257  0.67300743]
+work	[ 0.4715557  0.5284443]
+kludge to	[ 0.26050634  0.73949366]
+to make	[ 0.49850669  0.50149331]
+work when no	[ 0.43281285  0.56718715]
+to make everything	[ 0.4818126  0.5181874]
+kludge to make	[ 0.18696661  0.81303339]
+everything work when	[ 0.45731778  0.54268222]
+everything work when no	[ 0.48566385  0.51433615]
+kludge to make everything	[ 0.14581299  0.85418701]
+work when no rows	[ 0.49630034  0.50369966]
+to make everything work	[ 0.45549155  0.54450845]
+a kludge to make everything	[ 0.47743975  0.52256025]
+kludge to make everything work	[ 0.05017378  0.94982622]
+to make everything work when	[ 0.47331945  0.52668055]
+a kludge to make everything work	[ 0.23831517  0.76168483]
+kludge to make everything work when	[ 0.07328098  0.92671902]
+
+**********************************sentence NO.=2470**************************************
+todo shift block down by half
+1
+[-9.84373664855957, 9.843679428100586]
+[2.8174993449425756e-09, 1.0]
+todo	[ 0.01896074  0.98103926]
+todo shift	[ 0.0594974  0.9405026]
+todo shift block	[ 0.01542605  0.98457395]
+todo shift block down	[ 0.02566901  0.97433099]
+shift block down by	[ 0.49862325  0.50137675]
+todo shift block down by	[  1.77067371e-04   9.99822933e-01]
+todo shift block down by half	[ 0.08952844  0.91047156]
+
+**********************************sentence NO.=2472**************************************
+todo implement the entity for the annotation
+1
+[-11.445712089538574, 11.445650100708008]
+[1.1439527797252325e-10, 1.0]
+todo	[ 0.02272933  0.97727067]
+implement	[ 0.44005395  0.55994605]
+todo implement	[ 0.05610345  0.94389655]
+todo implement the	[ 0.00911563  0.99088437]
+todo implement the entity	[ 0.00978347  0.99021653]
+todo implement the entity for	[  8.10017507e-05   9.99918998e-01]
+todo implement the entity for the	[ 0.01023398  0.98976602]
+
+**********************************sentence NO.=2476**************************************
+todo for jfreechart 1 2 0 , this method should go in the shapeutilities class
+1
+[-9.943541526794434, 9.943486213684082]
+[2.307669388912359e-09, 1.0]
+todo	[ 0.01427669  0.98572331]
+todo for	[ 0.05973532  0.94026468]
+should go	[ 0.47505065  0.52494935]
+todo for <UNK>	[ 0.00913229  0.99086771]
+method should go	[ 0.4882278  0.5117722]
+this method should	[ 0.44854519  0.55145481]
+should go in	[ 0.4573325  0.5426675]
+todo for <UNK> 1	[ 0.01472532  0.98527468]
+this method should go	[ 0.46251738  0.53748262]
+should go in the	[ 0.4982613  0.5017387]
+todo for <UNK> 1 2	[  1.21434756e-04   9.99878565e-01]
+this method should go in	[ 0.43987894  0.56012106]
+todo for <UNK> 1 2 0	[ 0.12520749  0.87479251]
+should go in the <UNK> class	[ 0.44095815  0.55904185]
+2 0 this method should go	[ 0.4672181  0.5327819]
+this method should go in the	[ 0.46726814  0.53273186]
+0 this method should go in	[ 0.45328891  0.54671109]
+
+**********************************sentence NO.=2481**************************************
+todo use a generator here
+1
+[-14.057317733764648, 14.05726432800293]
+[6.165838239285959e-13, 1.0]
+todo	[ 0.02460965  0.97539035]
+use	[ 0.49801353  0.50198647]
+todo use	[ 0.06157321  0.93842679]
+todo use a	[ 0.01502296  0.98497704]
+todo use a generator	[ 0.01043262  0.98956738]
+todo use a generator here	[  3.20253058e-05   9.99967975e-01]
+todo use a generator here <UNK>	[ 0.00959104  0.99040896]
+
+**********************************sentence NO.=2482**************************************
+todo i think we need to make sure the keys are actually cloned , whereas the paint instances are always immutable so they 're ok
+1
+[-14.811625480651855, 14.811562538146973]
+[1.3639954508752605e-13, 1.0]
+todo	[ 0.01694857  0.98305143]
+todo i	[ 0.03106999  0.96893001]
+i think	[ 0.43867407  0.56132593]
+need to	[ 0.4984  0.5016]
+todo i think	[ 0.00901022  0.99098978]
+so they 're	[ 0.48589831  0.51410169]
+to make sure	[ 0.48347462  0.51652538]
+they 're ok	[ 0.48234882  0.51765118]
+todo i think we	[ 0.0075354  0.9924646]
+so they 're ok	[ 0.47758499  0.52241501]
+are always immutable so	[ 0.48891117  0.51108883]
+i think we need	[ 0.46411948  0.53588052]
+todo i think we need	[  4.16493422e-05   9.99958351e-01]
+think we need to make	[ 0.45045181  0.54954819]
+todo i think we need to	[  4.20352584e-04   9.99579647e-01]
+instances are always immutable so they	[ 0.35657842  0.64342158]
+i think we need to make	[ 0.43986579  0.56013421]
+think we need to make sure	[ 0.45525212  0.54474788]
+to make sure the keys are	[ 0.41261771  0.58738229]
+
+**********************************sentence NO.=2484**************************************
+todo i think we need to make sure the keys are actually cloned , whereas the stroke instances are always immutable so they 're ok
+1
+[-15.067728996276855, 15.067666053771973]
+[8.172674640987906e-14, 1.0]
+todo	[ 0.01690766  0.98309234]
+todo i	[ 0.03106999  0.96893001]
+i think	[ 0.43867407  0.56132593]
+need to	[ 0.4984  0.5016]
+todo i think	[ 0.00901022  0.99098978]
+so they 're	[ 0.48589831  0.51410169]
+to make sure	[ 0.48347462  0.51652538]
+they 're ok	[ 0.48234882  0.51765118]
+are actually cloned	[ 0.4669717  0.5330283]
+todo i think we	[ 0.0075354  0.9924646]
+so they 're ok	[ 0.47758499  0.52241501]
+are always immutable so	[ 0.48891117  0.51108883]
+i think we need	[ 0.46411948  0.53588052]
+todo i think we need	[  4.16493422e-05   9.99958351e-01]
+think we need to make	[ 0.45045181  0.54954819]
+todo i think we need to	[  4.24170015e-04   9.99575830e-01]
+instances are always immutable so they	[ 0.42134668  0.57865332]
+i think we need to make	[ 0.43986579  0.56013421]
+cloned whereas the stroke instances are	[ 0.38607515  0.61392485]
+think we need to make sure	[ 0.45525212  0.54474788]
+
+**********************************sentence NO.=2486**************************************
+returns a string representing the week \( e g week 9 , 2002 \) todo look at internationalisation return a string representing the week
+1
+[-7.732359409332275, 7.732301712036133]
+[1.9221315028516983e-07, 0.9999997615814209]
+todo	[ 0.01150538  0.98849462]
+todo look	[ 0.0264432  0.9735568]
+2002 todo	[ 0.36432873  0.63567127]
+todo look at	[ 0.01072422  0.98927578]
+todo look at <UNK>	[ 0.01511624  0.98488376]
+2002 todo look at	[ 0.44695542  0.55304458]
+todo look at <UNK> return	[  5.08837767e-04   9.99491162e-01]
+9 2002 todo look at	[ 0.47135731  0.52864269]
+2002 todo look at <UNK> return	[ 0.33230818  0.66769182]
+todo look at <UNK> return a	[ 0.02723923  0.97276077]
+9 2002 todo look at <UNK>	[ 0.33914245  0.66085755]
+
+**********************************sentence NO.=2488**************************************
+todo draw the interval marker with a 3d effect
+1
+[-12.022420883178711, 12.02236270904541]
+[3.609796836445689e-11, 1.0]
+todo	[ 0.01665897  0.98334103]
+todo draw	[ 0.02662933  0.97337067]
+todo draw the	[ 0.00995491  0.99004509]
+interval marker with	[ 0.44596072  0.55403928]
+todo draw the interval	[ 0.01002367  0.98997633]
+todo draw the interval marker	[  9.39499733e-05   9.99906050e-01]
+todo draw the interval marker with	[ 0.00373375  0.99626625]
+
+**********************************sentence NO.=2489**************************************
+todo add serialization support for images
+1
+[-10.946958541870117, 10.946903228759766]
+[3.101820189588267e-10, 1.0]
+todo	[ 0.01947791  0.98052209]
+todo add	[ 0.0429521  0.9570479]
+todo add serialization	[ 0.01098771  0.98901229]
+todo add serialization support	[ 0.0157165  0.9842835]
+todo add serialization support for	[  1.52838342e-04   9.99847162e-01]
+todo add serialization support for images	[ 0.04930495  0.95069505]
+
+**********************************sentence NO.=2491**************************************
+todo see if we need to apply some line color and style to the axis traces
+1
+[-11.58854866027832, 11.588486671447754]
+[8.596883621647677e-11, 1.0]
+todo	[ 0.0149499  0.9850501]
+apply	[ 0.47114728  0.52885272]
+need	[ 0.48602203  0.51397797]
+todo see	[ 0.04276082  0.95723918]
+see if	[ 0.48405607  0.51594393]
+style to	[ 0.48863625  0.51136375]
+todo see if	[ 0.01094727  0.98905273]
+to the axis	[ 0.47079678  0.52920322]
+if we need	[ 0.48501858  0.51498142]
+style to the	[ 0.45228183  0.54771817]
+todo see if we	[ 0.02068809  0.97931191]
+style to the axis	[ 0.36011501  0.63988499]
+see if we need	[ 0.49309642  0.50690358]
+todo see if we need	[  1.17222934e-04   9.99882777e-01]
+todo see if we need to	[ 0.00135069  0.99864931]
+apply some line color and style	[ 0.46736914  0.53263086]
+need to apply some line color	[ 0.46821248  0.53178752]
+
+**********************************sentence NO.=2493**************************************
+an annotation that allows an image to be placed at some location on an link xyplot todo implement serialization properly \( image is not serializable \)
+1
+[-9.94993782043457, 9.949881553649902]
+[2.278340627270836e-09, 1.0]
+implement	[ 0.44005395  0.55994605]
+todo	[ 0.01212351  0.98787649]
+link	[ 0.45736033  0.54263967]
+todo implement	[ 0.04605203  0.95394797]
+is not	[ 0.49840762  0.50159238]
+<UNK> todo	[ 0.44787227  0.55212773]
+todo implement serialization	[ 0.00703016  0.99296984]
+to be placed	[ 0.43735806  0.56264194]
+annotation that allows	[ 0.49928763  0.50071237]
+properly image is	[ 0.45178303  0.54821697]
+image to be	[ 0.49414192  0.50585808]
+todo implement serialization properly	[ 0.01021875  0.98978125]
+to be placed at	[ 0.46822052  0.53177948]
+todo implement serialization properly image	[  1.57546481e-04   9.99842454e-01]
+to be placed at some	[ 0.45067271  0.54932729]
+serialization properly image is not serializable	[ 0.31561394  0.68438606]
+todo implement serialization properly image is	[ 0.00455662  0.99544338]
+image to be placed at some	[ 0.45566741  0.54433259]
+be placed at some location on	[ 0.44724559  0.55275441]
