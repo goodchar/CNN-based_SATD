@@ -1,0 +1,11 @@
+check first that it is not already loaded otherwise consecutive runs seems to end into an outofmemoryerror or it fails when there is a native library to load several times this is far from being perfect but should work in most cases
+xxx unfortunately jdk1 2 adds entryset \( \) , keyset \( \) , values \( \) implementing this requires a small hack , we can add it later
+xxx maybe use reflection to addpathelement \( other patterns \? \)
+junit3 test assertequals \( error , junittestrunner failures , runner getretcode \( \) \) fixme as of now does not report the original stacktrace asserttrue \( error , error indexof \( thrown on purpose \) ! 1 \)
+not very nice but will do the job
+xxx could perhaps also call thread stop \( \) not sure if anyone cares
+the displayname variable stores the value of the display name element from the standard ejb descriptor as a future enhancement to this task , we may determine the name of the ejb jar file using this display name , but this has not be implemented yet
+xxx should n't this always return false in isolated mode \?
+stolen from org apache xerces impl xmlentitymanager getuserdir \( \) of the xerces j team which ascii characters need to be escaped
+xxx all this to get package according to weblogic standards can be written better this is too hacky ! careful similar code in scandir , but slightly different ! !
+mac os 9 and previous todo i have no idea how to get it , someone must fix it

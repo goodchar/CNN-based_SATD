@@ -1,0 +1,97 @@
+we assume , that every output , jikes does , stands for an error warning xxx is this correct \?
+there is a better way to save the context this should n't delegate to next , it 's for backward compatibility only
+silly hack to avoid stack overflow
+todo not read , yet in a public setter
+first developer could use a little help
+this is the wrong test if the remote os is openvms , but there does n't seem to be a way to detect it
+xxx we are committing combiningchar and extender here
+todo allow user to request the system or no parent
+report error if something weird happens this is diagnostic
+temporary until we figure a better api
+xxx what is this for \?
+the following code is copied from attributeimpl we could also just use sax2 attributes and convert to sax1 \( dom attribute nodes can also be stored in sax2 attributes \) xxx under jdk 1 4 you can just use a linkedhashmap for this purpose jglick
+not used , but public so theoretically must remain for bc \?
+xxx should we silently catch possible exceptions and try to load a different implementation \?
+borrowed from tokenfiltertest
+to do delete the file if it is not a valid file
+we have to find a cleaner way to put this output
+copied from concattest
+xxx should throw an exception instead \?
+cannot remove underscores due to protected visibility \(
+xxx \( jon skeet \) any reason for writing a message and then using a bare runtimeexception rather than just using a buildexception here \? is it in case the message could end up being written to no loggers \( as the loggers could have failed to be created due to this failure \) \?
+not sure what could be the need of this
+xxx log an error \? throw an exception \?
+todo using taskname here is brittle , as a user could override it this should probably be modified to use the classname instead
+pr i do not know what to do if the object class has multiple defines but this is for logging only
+the property is an id 's thing either a property or a path we need to make sure that the object was created with the given id we do n't have an adequate way of testing the actual value of the path object , though
+todo there is a problem with the constructor for the rbc you have to provide the rules in the constructors no setters available
+hack we ask the vm to create an instance by voluntarily providing illegal arguments to force the vm to run the class' static initializer , while at the same time not running a valid constructor
+xxx add exceptions
+only the developer knows what \( s \) he is doing
+probably not the best choice , but it solves the problem of relative paths in classpath
+xxx failed to load the class properly should we print a warning here \?
+if there was any text before this , add it as a fragment todo , this check could be modified to go if pos prev seems like this current version could stick empty strings into the list
+if the jarfile already exists then whack it and recreate it should probably think of a more elegant way to handle this so that in case of errors we do n't leave people worse off than when we started \)
+todo is this comment still relevant \? \? fixme need to use a saxsource as the source for the transform so we can plug in our own entity resolver
+fixme this is actually not very cpu cycles friendly as we are converting from dos to java while the underlying sun implementation will convert from java to dos time for internal storage
+pr hack for ant type value an ant type is a component name which can be namespaced , need to extract the name and convert from qualified name to uri name
+xxx what is the following doing \? should it run if ! javadoc4 executable ! null \?
+we have to deal with assembly ! ! ! the programmer can be writing little 32 byte chunks for all we know , and we must assemble complete records for writing review maybe this should be in tarbuffer \? could that help to eliminate some of the buffer copying
+xxx all this to convert source to destination directory according to weblogic standards can be written better this is too hacky !
+xxx i really do n't like this the xml processor is still too 'involved' in the processing a better solution \( imo \) would be to create ue for project and target too , and then process the tree and have project target deal with
+there 's a convenient xsltc class version but data are private so use package information
+not sure whether this test is needed but cost nothing to put hope it will be reviewed by anybody competent
+xxx why not simply new file \( dir , filename \) \?
+super validateattributes \( \) do n't want to call this method
+not sure whether this is clean , but this method is declared not to throw exceptions
+this may change , if we add advanced parsing capabilities
+xxx this array stuff is a remnant of prev trials gotta remove
+we keep this , so we have something to delete in later tests \)
+do n't call super close \( \) because that reader is used on other places
+what is the property supposed to be \?
+this is the new , better way use classespath instead of sourcespath the code is currently the same you need class files in a directory to use this or jar files
+should move to a separate public class and have api to add listeners , etc
+xxx we should use jcvs \( www ice com jcvs \) instead of command line execution so that we do n't rely on having native cvs stuff around \( sm \)
+attribute names and values while the xml spec does n't require preserving the order \( afaik \) , some ant tests do rely on the exact order
+process does n't die properly under this combination , thus test fails no workaround \?
+todo no methods yet for getclassname todo no method for newinstance using a reverse classloader
+experimental testing , will be removed
+junit 4 wraps solo tests this way we can extract the original test name with a little hack
+this is deprecated use classespath in the future
+why do we do nothing \?
+the line below is a hack the system id must an uri , but it is not cleat to get the uri of an resource , so just set the name of the resource as a system id
+xxx ignore attributes in a different ns \( maybe store them \? \)
+for script example that modifies id'ed tasks in other targets to work very ugly the reference is replaced by runtimeconfigurable
+this is ugly checking for the root folder
+xxx perhaps we should n't use properties for these three options \( emacs mode , warnings and pedantic \) , but include it in the javac directive \?
+todo a warning line , that shows code , which contains a variable error will cause some trouble the parser should definitely be much better
+these are pathological cases , but retained in case somebody subclassed us
+this is really irritating we need a way to set stuff
+stolen from writemanifest
+xxx move to project \( so it is shared by all helpers \)
+i ca n't get my head around this is encoding treatment needed here \?
+xxx should instead make a new protectiondomain with a codesource corresponding to container touri \( \) tourl \( \) and the same permissioncollection as project class protectiondomain had
+xxx is the following really necessary \? it is in the same thread group
+quick fix for ant java use of property before initializing the project
+quick dirty , to make nested mapped p sets work
+todo nothing appears to read this but is set using a public setter
+todo parameterise \? \? call compiler as class dont want to fork again use classic compiler can be parameterised \?
+this is the old way and is deprecated classespath is the right way to do this and is above
+singleton for now , it may change \( per classloader \)
+xxx is this code still necessary \? is there any 1 2 \+ port \? pull in zip from packages directory
+fix for invalid characters if you think of more add to the list
+does n't work depending on the compression engine used , compressed bytes may differ false errors would be reported asserttrue \( file content mismatch , file utils contentequals \( project resolvefile \( expected asf logo huge tar bz2 \) , project resolvefile \( asf logo huge tar bz2 \) \) \)
+where oh where has my test case 3 gone \?
+have to think about lazy initialization here jhm comparator new java text rulebasedcollator \( \)
+fixme is no namespace is empty namespace really ok \?
+sorry otherwise we will get a classcastexception because the mockcache is loaded by two different classloader
+we just set the prefix for this fileset , and pass it up do we need to do this \? lh
+check it out also ugly
+todo this is duplicating testresult information only the time is not part of the result so we 'd better derive a new class from testresult and deal with it \( sb \)
+should become a single empty argument , same for '' pr 5906
+hammer end inline maingtu
+bingo append it \( this should normally not be done here \)
+access to property tables this is used to support ant call and similar tasks it should be deprecated , it is possible to use a better \( more efficient \) mechanism to preserve the context
+this is faintly ridiculous
+provide public visibility
+since java 1 4 return normalizedpath split \( \) workaround for java 1 2 1 3

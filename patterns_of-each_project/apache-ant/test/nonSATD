@@ -1,0 +1,295 @@
+for each byte
+throws ejbcexception if unsuccessful
+20 is just a paranoia constant
+classpath
+build the command line from what we got the format is cleartool mkelem options viewpath as specified in the cleartool exe help
+once we find a folder that is n't in the repository , we know we can add it
+if this is left out , bad things happen like all build files break on the first element encountered
+check for missing application on deploy update
+this type of output might happen change 18 renamed change 20 and submitted
+mark for a rebuild if the dest file is newer
+get the values and do the comparison
+if the implementation classes don t exist regenerate
+set the property
+every condition is xored against the previous one
+disk numbers
+windows xp 2000 nt
+set up response file options
+first the easy way , if all children are filesystem only , return true
+namespace that does not contain antlib
+initialize to the size of the first text fragment , with the hopes that it 's the only one
+place vendor specific tool creations here
+avoid multiple configurations
+ptime
+newer versions of kaffe \( 1 1 1 \+ \) wo n't have this , but this will be sorted by fileset anyway
+junit stuff
+if the source file is n't there , throw an exception
+setting up the unzftab entries here is not strictly necessary , but it does save having to do it later in a separate pass , and so saves a block 's worth of cache misses
+default true
+delete a bogus zip file \( but only if it 's not the original one \)
+add the group arguments
+finally , lets execute the compiler ! !
+p k
+this code is needed by ebcdic and other strange systems it 's a fix for bugs reported in xerces
+use a system manager that prevents from system exit \( \)
+first char is more restrictive than the rest
+ignore attributes from unknown uris
+smtp provider
+the buildfile to use
+get the filename into a string object
+if value and default are both specified and the property did not exist in the property file , the property is set to default
+if you cannot read it , you wo n't be able to write it either
+longest match comes first
+different dates different files
+now the coding tables
+testing drive letter search from root
+just call the getexecutestreamhandler \( \) and let it handle the semantics of instantiation or retrieval
+try to find jonas specific convention name
+get any included source directories
+should not happen
+add in the warnings
+compare the destination with the temp file
+try to read the dependency info from the map if it is not out of date
+a label is required
+theres nothing else to see here keep moving sonny
+tests property element , using xml schema properties as an example
+starts pumping away the generated output error
+target must be specified
+second cr eol \+ possibly empty line
+complete the big bucket ss by quicksorting any unsorted small buckets ss , j hopefully previous pointer scanning phases have already completed many of the small buckets ss , j , so we do n't have to sort them at all
+loop through all the class files found and add them to the jar
+the destination of the files to copy
+we add this to our group of fileset manifests
+we only like simple mappers
+only set if successful to this point
+so long as the line is n't empty and is n't a comment
+set up a soscheckout task
+expectbuildexceptioncontaining \( testnotld , jasper found an error in a file , java returned 9 \)
+stateless
+need to handle manifest as a special check
+specific attributes for the transformer
+ndata
+does n't java know interruptions are rude \? just pretend it did n't happen and go about out business sheesh !
+cf nb 47191
+tests one the file object
+no emptybehavior handling since the fileset version will take care of it
+check to see if the shutdown hook methods exists \( support pre jdk 1 3 vms \)
+count the number of empty strings
+add the single group arguments javadoc 1 2 rules multiple group args allowed each arg includes 3 strings group name packagelist elements in packagelist are colon delimited an element in packagelist may end with the wildcard
+skip
+two characters form the hex value
+where the name contains
+now ftab contains the first loc of every small bucket calculate the running order , from smallest to largest big bucket
+header newline
+attributes
+this actually relies on the first manifest being found on the classpath \( probably rt jar 's \) being valid
+reserved
+if the user has set jikespath we should add the contents as well
+set the working directory
+this three attempt trick is to get round quirks in different java implementations some of them take a few goes to bind property we ignore the first couple of such failures
+must be a zip of some sort
+the tag element is not used as a fileset , but specifies the tag directly
+the key is in the dictionary but cannot be retrieved this is usually due references that refer to tasks that have not been taskdefed in the current run ignore
+completed successfully
+set up a vsscp task
+default to the global setting and then see if this class belongs to a package which has been designated to use a specific loader first \( this one or the parent one \)
+property types
+this iterator is exhausted can we pop one off the stack
+add dest dir to classpath so that previously compiled and untouched classes are on classpath
+assuming mime type in form text xxxx charset xxxxxx
+not a class file or the one we 'd generate
+up to last ' '
+exec command on system runtime
+check to see that the file with name name exists
+line feed
+create a single array of arguments for the compiler
+file are different see if its an object or an interface
+lf is always end of line \( i e crlf or single lf \)
+the remainder of this method is only for compilers that need their dependency work done
+now do it again for the directories so they appear last
+eol was r r handle as two consecutive r and r
+for the text node , add a property
+use the vm launcher instead of shell launcher on vms
+returns list of ejbs for processing
+now update the class path property
+checkstyle visibilitymodifier off
+add the files to the command
+basedir of subant subant test2 subant xml is therefore we expect here the subant subdirectory
+check if a create of this property is already present add takes preference over create for cb purposes
+now , iterate through the attributes adding them
+see if it is a sax1 parser
+adding something to the excludes'
+make sure that elapsed time in set via date works
+eol was r r n
+methods to register and unregister shutdown hooks
+pattern and string do not have the same size
+do nothing by default
+show the command
+third run
+n
+get the list of weblogic jar entries
+this class acts as a custom ant task also and uses these variables methods in that mode
+set the non null stuboption
+can return null to represent the bootstrap class loader see api docs of class getclassloader
+name newline
+keep track of the oldest modification timestamp
+should n't happen
+mark for a rebuild if we are newer
+looks like nothing from meta inf should be added and the check is not case insensitive see sun misc jarindex
+check for missing application on delete undeploy
+deactivate this test as imports within targets are not allowed
+do not close the stream
+end of execute \( \)
+no existing archive
+first read in zero bytes
+reflection problems \? should not happen , debug
+works like clone \( \) but does n't show up in the javadocs
+we have the loader which is being used to load the catalogresolver can it see the apacheresolver \? the base resolver will only be able to create the apacheresolver if it can see it does n't use the context loader
+default implementation methods used to support the default behavior and provide backward compatibility some will be deprecated , you should avoid calling them
+ctime
+find the pattern between padidxstart padidxtmp in str between stridxstart stridxend
+set the mimetype if not done already \( and required \)
+attribute setters
+get the fileset and its basedir
+split the targets in top level and sub targets depending on the presence of a description
+perforce task directives
+no need to keep track of bcc 'd addresses
+support multiple packages
+assert ! null and equality
+the clean way would be to throw an exception throw new ioexception \( crc error \)
+create a zipfileset for this file , and pass it up
+g
+now recover all the dependencies collected and add to the list
+private static final string pcli lvf args lvf z aw
+subversion
+currently visiting this node , so have a cycle
+weblogic ejb utils ddcreator main \( newargs \)
+deal with the resource collections
+the exec os check is different from os isos \( \) , which probes for a specific os instead it searches the os field for the current os name
+from now , the methods are all related to dom tree manipulation
+nonexistent resources could only occur if we already deleted something from a fileset
+classpath add at the end of the classpath the system classpath in order to find the tools jar file
+step 2 now scan this big bucket so as to synthesise the sorted order for small buckets t , ss for all t ! ss
+cr without lf send buffer then add char
+default directory to the project 's base directory
+we normally compare destination with source
+raw supports crlf crlf
+rethrow build exceptions
+get set methods setters , of course are where ant user passes in values
+change these through their get and set methods
+this path could be a drive spec , so look at the next token
+fragments addelement \( value substring \( pos \+ 1 , pos \+ 2 \) \) prev pos \+ 2
+try the current classloader
+execute the ejbc utility stubs skeletons are rebuilt , if needed
+selectorcontainer methods
+orb
+global
+overriding target from imported buildfile is allowed
+bind to a compiler
+set in excludes to reasonable defaults if needed
+dreaded backwards compatibility
+unfortunately on windows java home does n't always refer to the correct location , so we need to fall back to assuming java is somewhere on the path
+no absolute pathnames windows \( and posix \? \) paths can start with networkdrive , so we loop on starting 's
+root dir
+required attributes
+make sure the cache is cleared
+expose members for extensibility
+this loop runs parallel to the build
+if all resource files associated with this bundle have been scanned for and still not able to find a single resrouce file , throw exception
+check to see if the target directory exists
+set start position for next search
+constants for the messages to suppress by flags and their corresponding properties
+tomcat4 0 gets the old mangler
+add some time we assume no os has a granularity this bad
+bsbuffshadow 0 \( 32 bsliveshadow 1 \)
+a valid mailer must be present by now
+make sure there are no issues concerning line separator interpretation a line separator for regex \( perl \) is always a unix line \( ie n \)
+output 'output of echo'
+does the class have a package structure
+path is mentioned in the message
+lfh offset ,
+store the token just read for next time
+string is exhausted
+enable xsd
+now stop the watchdog
+singletons since all state is in the context
+no need to do anything
+convert to an array
+end class subant
+now determine which jars each class depends upon
+\( with blocksize 900k \) 256 byte
+need to close files and perhaps rename output
+generate an initial set of coding tables
+init the testclasses path object
+we assume , that everything jikes writes goes to standard output , not to standard error the option xstdout that is given to jikes in javac dojikescompile \( \) should guarantee this at least i hope so \)
+validating
+24918 send standard input to the process by default
+set default value , can be changed by the user
+parse with a simple finite state machine
+pass the params to the mailer
+uncompressed size
+lf eol
+if configured to not care about whether the element is already checked out to the current view then check to see if it is checked out
+first , check that all elements are correctly configured
+convert backslashes to slashes , otherwise jjtree will put this as comments and this seems to confuse javacc
+show the secondary descriptor , if there is one some item types have one , some do n't
+children \( this is a shadow of unknownelement children \)
+new behavior for delayed task creation description will be evaluated in project getdescription \( \)
+should get no output at all
+at least one address to send to cc bcc is required
+just add sourcepath to classpath \( for jdk1 1 \) as well as bootclasspath and extdirs
+3600000 byte 900000 byte 4560782 byte
+override task execute
+size crc not required if randomaccessfile is used
+can throw the same exception , if there is no this \( project \) ctor
+using default
+nothing to add for generic tool
+share the setup for testing the depend task
+validation
+now did any of the threads throw an exception
+normal case
+we cannot set the priority here
+ensure exec follows the immutability rule
+weblogic ejbc main \( newargs \)
+see if we should issue a chmod command
+crc 32
+1028 byte 512 byte 3096 byte 6 byte 60798 byte
+27224 magic \( a random port which is unlikely to be in use \)
+ms dos read only attribute
+member variables internal use
+we only get here if an exception has been thrown
+rm
+end verbose only
+go through the tokens one at a time , updating the elements array and issuing warnings where appropriate
+build the path stack info to compare
+let the user know what 's going to happen
+process big buckets , starting with the least full
+deal with specified srcdir
+options passed to the ias ejbc
+now find available running slots for the remaining threads
+local file header signature
+schema declarations go in next
+mask , block from being edited , all characters in constants
+look for and print warnings
+was expected
+we have started to \( over \) write dest , but failed try to delete the garbage we 'd otherwise leave behind
+catch invalidness
+this should return quickly , since it basically is a no op
+next looking if charset having explicit definition
+nlabel
+xalan xsltc
+top level file
+millis per second
+get the next 3 bytes \( if we have them \)
+first and second run
+inner classes
+262148 byte 333408 byte
+ant javadoc task rules for group attribute args are comma delimited each arg is 2 space delimited strings e g , group xslt packages org apache xalan xslt , xpath packages org apache xalan xpath
+otherwise , use this view configured as the tip
+check if one of the builds failed in keep going mode
+iterator through all the files and process them
+valid extension point
+trim the meta inf off of the file name
+handle line continuations , if any
+similar to a fileset , but does n't allow dir attribute to be set
+mix element types

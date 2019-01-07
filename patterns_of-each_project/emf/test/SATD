@@ -1,0 +1,10 @@
+if there are multiple variables in declaration , separate this variable fragment into a separate declaration
+revisit do we really need to support block names as in unicode 3 1 or we can just create all the names in isblockname format \( xml schema rec \) \?
+fb wo n't compile with vaj or no jikes fb object adapter adapterfactory adapt \( mapping \)
+because of the old factoring approach in the create method , it might be the case that the state of the old value has changed by the time we get here , and in that case , we do n't want to duplicate the removals in this code
+todo hack that should be removed
+todo deprecate \( since no longer used by geteditpluginclass \( \) , geteditorpluginclass \( \) , gettestsuiteclass \( \) \)
+eatm this might be better written as a single loop for the eobject case \?
+todo this assumes we only get a set notification , which is n't a good assumption
+we should be able to find the comma because the range for enum constants includes all preceding comments up to the previous constant if targetsourcerangecomputer of astrewrite changes , this logic should change to skip comments see org eclipse emf codegen merge java facade ast commentawaresourcerangecomputer getenumconstantsourcerange \( astnode \)
+this runs the operation , and shows progress \( it appears to be a bad thing to fork this onto another thread \)

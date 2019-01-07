@@ -1,0 +1,94 @@
+todo add standard stereotype \? set is open ended , but predefined names include call , create , instantiate , send
+constraint this code only deals with 1 supplier per dependency ! todo do we need more \? see org argouml uml ui abstractactionaddmodelelement doit \( java util list \)
+constraint this code only deals with 1 supplier per dependency ! todo how to support more \? see org argouml uml ui abstractactionaddmodelelement doit \( java util list \)
+todo investigate the unnamed opposite end
+todo this is using internal knowledge of gef it should handle this itself tfm mvw move into something like main initgef \( \)
+todo bob says coding by use of side effect here maybe this should be done in a clearer way but it fixes http argouml tigris org issues show bug cgi \? id 4978 it seems that when loading an xmi that is not contained in a zip file then the inputstream given as the argument to this method ca n't be reused as it is at the end of the stream in that case systemid appears to be none null at this stage so if systemid is not null we recreate the inputsource
+utility function to localize the given string with help text , and show it in the status bar of the argouml window this function is used in favour of the inline call to enable later improvements e g it would be possible to show a help balloon p todo this code is also present in other root figs param s the given string to be localized and shown
+needed \?
+prevent italic events if italic does not change todo gef should manage this after gef 0 13 4 is included
+defines the methods to generate source code from the model each class providing code generation functionality must implement this to be recognized by argouml as a code generator p todo a gui independent mechanism to pass settings to the code generator is needed similar to what we have for reverse engineering see link org argouml uml reveng importinterface getimportsettings \( \) and link org argouml uml reveng settingstypes since 0 20 when it replaced the filegenerator interface
+todo this needs to be double checked tfm
+todo this is currently duplicated from metadatacache must find a common place in model facade
+todo tentative implementation do we want something that updates the list of open projects or just simple open and close events \? tfm
+additional cleanup needed , because this would not be removed by ext destroy \( \)
+todo mvw why is this not done in gef \?
+todo support more than one body language
+todo add unnamed or new or something \? \( localized , of course \)
+todo lets move this behind the model interface
+the constructor p todo is this constructor used \? what is the purpose with it \? param n the name to be localized param subs the go rules
+set the uri for this project p do n't use this directly ! use instead link org argouml persistence persistencemanager setprojecturi \( uri , project \) p todo why is n't this deprecated or private if it is not to be used \? param theuri the uri to set
+todo can we put the static block within the init \( \) \?
+todo maybe separate name
+return the default type for the return parameter of a method return a classifier to use as the default type todo this belongs in projectsettings tfm
+todo i18n this needs to be localized , but we do n't have any localization capabilities in the model subsystem object args typename , elemname , alias misc name element import alias imported 0 1 alias 2 return translator localize \( misc name element import alias , args \)
+hack for to do items only , should check isleaf \( node \) , but that includes empty folders really i need alwaysleaf \( node \)
+todo use default value of appropriate type here
+todo this is probably related to the sendevent that is sending the signal , but the association is not navigable in that direction
+fix up bad figs p due to errors in earlier releases of argouml it can happen that there is a generalization without a child or parent p todo move into xsl we should not remove from the graph model while we 're writing to it or we have a possible cause of concurrent modification exception param owner
+our superclass no longer has this method , so perhaps this whole thing should be removed \? tfm super updatelisteners \( newowner \)
+delete a model element implements 'cascading delete' to make sure model is still valid after element has been deleted p the actual deletion is delegated to delete methods in the rest of the factories for example a method deleteclass exists on corehelper delete methods as deleteclass should only do those extra actions that are necessary for the deletion of the modelelement itself i e deleteclass should only take care of things specific to umlclass p the delete methods in the uml factories should not be called directly throughout the code ! calls should always refer to this method and never call the deletexxx method on xxxfactory directly the reason that it is possible to call the deletexxx methods directly is a pure implementation detail p the implementation of this method uses a quite complicated if then else tree this is done to provide optimal performance and full compliance to the uml 1 4 metamodel the last remark refers to the fact that the uml 1 4 model uses multiple inheritance in several places this has to be taken into account p todo the requirements of the metamodel could probably be better determined by reflection on the metamodel then each association that a deleted element participates in could be reviewed to make sure that it meets the requirements and , if not , be deleted tfm p extensions and its children are not taken into account here they do not require extra cleanup actions not in the form of a call to the remove method as is normal for all children of mbase and not in the form of other behaviour we want to implement via this operation param elem the element to be deleted see org argouml model umlfactory delete \( java lang object \)
+todo rationalize this with getmodelelementcontainer
+reply true iff this critic is relevant to the goals that the designer is trying to achieve by default , all critic 's are relevant regardless of the goalmodel really this is something for a controlmech to compute , but if a subclass of critic encapsulates some information you may need to override this method p todo i would like a better default action , but goals are typed and their values must be interpreted by critics they are not as generic as the decisionmodel param dsgr the designer return true if relevant
+andreas this is just temporary for the uml2 pre alpha versions
+recognizer for primary objects a primary object is an object that is created by the parser or by a user object that are created as a side effect of importing some other object are not p todo this does n't belong in the facade it 's a higher level function used specifically for certain reverse engineering operations tfmorris param handle candidate return true if primary object
+convert to bounding box very screwy ! gef sometimes uses center and sometimes upper left todo gef also positions text at the nominal baseline which is well inside the bounding box and gives the overall size incorrectly
+if is a classifier role , it must return the received messages in other cases , returns an empty list todo must be the outgoing messages or the received ones \?
+todo implement this !
+todo hook this creating of a new resource in to someplace more more appropriate \( perhaps createmodel \( \) \? \) better yet add a new method to model api to create a new top level project model xmi file so we do n't depend on side effects
+todo this is not according the contract for this function , but it is used in several places , and i \( mvw \) presume that we need this generally this part \( 1 \) is about drawing an import permission between packages the part \( 2 \) below is about modelmanagement elementimport
+first of all , let 's set up the duplicate hash this hash contains all the duplicate key for another key todo every duplicate put \( \) is done twice but how to avoid this \?
+set the target anew todo this method is never used what is its intention \? remove it \?
+todo is this really needed \?
+todo how to handle changes in shadowsize from the project properties \?
+todo we 'd like to test this in its new guise as packageimport , but we do n't have a good way to do it currently
+todo this should either be extended to support all aggreationkinds or it should be simplified removed from the api tfm 20070331
+todo redo it \( curbody should be as long as curlanguage \+ button \)
+todo bob says tabs that listen for target changes should register themselves not expect detailspane to listen and pass on the event otherwise these tabs always rely on detailspane tabtodotarget and tabprops currently listen directly
+todo comment by a rueckert i do n't think it makes much sense to query interactions from a collaboration in uml2 , since this diagram does no longer exist and an interaction means something different in uml2
+todo implement support for types other than string
+create an enumerationliteral return object new enumeration since uml 1 4 todo this needs an extra parameter to specify the model extent where the new element should be created
+todo in uml 2 x a tagdefinition has become a property on a stereotype anything that uses this will probably need to be reviewed changed just return property for now
+todo this is updating model on a per character basis as well as unregistering reregistering event listeners every character very wasteful tfm
+todo remove \? ca n't be localized
+todo use default value of appropriate type for td
+the file persister for the uml model todo this is empty what is its purpose \? tfm author bob tarling
+identifier for addonly changeability todo note this should not be in uml2 version
+critique menu todo this dependency should be inverted with the critics subsystem registering its desired shortcuts with us tfm
+changes the font for all figs contained in the given figgroup p todo in fact , there is a design error in this method e g for a class , if the name is italic since the class is abstract , then the classes features should be in plain font this problem can be fixed by implementing the updatefont \( \) method in all subclasses param fg the figgroup to change the font of
+this is the interface for registering interest in events sent from the model component p neither the registration or unregistration , nor the events themselves contain any reference to the model implementation instead they use the link java beans propertychangelistener , link java beans propertychangeevent to deliver events p the reference to the listener is a weakreference so you do n't need to call removewhateverlistener , you can just forget about your listener and it is eventually finalized and removed this also means that you will have to keep a reference to your listener while it is active since the garbage collecting mechanism is not really deterministic a forgotten about listener might still receive events unless it can handle them in a harmless way , this approach should not be used todo \( is this still true or does it refer to the nsuml implementation \? tfm 20051109 \) \( this is part of the contract that is established between the model subsystem and its users if that is not fulfilled by the current implementation , then the current implementation is incorrect linus 20060411 \) p todo what event names \? the event names generated are link string s and their values and meanings are not really well documented in general they are the name of an an association end or attribute in the uml metamodel p here are some highlights ul li remove event sent when the element is removed ul author linus tolke
+return the tagged value with a specific tag p warning this method returns only the first taggedvalue found with the given name hence , this method is a simplification of the real problem and should be avoided todo what should be done about the above problem \? options are to deprecate the method , throw an exception if the name is ambiguous , or leave the caller to figure it out themselves param handle the model element the tagged value belongs to param name the tag name return the found tag , null if not found
+translate the visibility flag of a fig to the pgml visibility attribute value the pgml values are 0 hidden and 1 shown if not specified then 1 is the default so we return null for this to prevent redundent data being written to pgml todo remove on gef release after 0 11 9 as it will be provided there param f the fig return 0 hidden , null shown
+todo enhance the isvalidnamespace function so that this never happens
+set the threshold todo should this be protected \? param threshold the threshold to compare to
+todo if this is an ordered list , then you have to add in the right location !
+todo is there anyway we can determine this size at runtime \?
+todo is this adequate for finding profiles in java webstart jars \? tfm
+the panel that shows a value specification for an other uml element todo do we need to implements changelistener if yes ok if no ca n't be use without optional class , or the optional do n't need to !
+we hang our heads in shame there are still bugs in argouml and or gef that cause corruptions in the model before a save takes place we repair the model in order to be as certain as possible that the saved file will reload todo split into small inner classes for each fix return a text that explains what is repaired
+todo as currently coded , this actually returns all behavioralfeatures which are owned by classifiers contained in the given namespace , which is slightly different then what 's documented it will not include any behavioralfeatures which are part of the namespace , but which do n't have an owner
+the uml 1 4 model elements to test todo this needs to be updated with a version for uml 2 x
+todo do all these classes need to be in their own files \? public \?
+return the fully qualified name of a model element in java \( dot separated \) format p todo we really need a language independent format here perhaps the list of names that form the hierarchy \? tfm
+create an empty but initialized instance of a uml attribute return an initialized uml attribute instance todo this needs an extra parameter to specify the model extent where the new element should be created
+class to display graphics for n ary association \( association node \) , i e the diamond p todo improve the location of the stereotypes ! author pepargouml yahoo es
+todo we can probably use this instead of all of the above legacy uml 1 3 code tfm 20070915
+todo this should listen for new target events fired by wizstep updatetabtodo so that we can decouple it from the projectbrowser
+todo move the magic number 4 to a descriptive constant
+todo the above does n't work reliably in a constructor we need a better way of getting default fig settings for the owning project rather than using the project manager singleton tfm
+actually instanciate the netnode and fignode objects and set the global next mode to modeplace todo should call super , reduce code volume ! see org tigris gef graph graphfactory makenode \( \)
+todo bob says how can we auto generate this list \?
+list transition result new arraylist transition \( \) todo not complete how to retrieve the transitions \?
+todo work in progress here to allow multiple details panes with different contents bob tarling
+todo still not used , because in argouml string is hardwired
+builds a default implementation for a class the class is not owned by any model element by default users should not forget to add ownership return newly created class todo this needs an extra parameter to specify the model extent where the new element should be created
+this class gives critics access to parts of the uml model of the design it defines a gen \( \) function that returns the children of any given part of the uml model basically , it goes from project , to models , to modelelements argo 's critic agency uses this to apply critics where appropriate todo this thinks it knows all the composition associations of the the uml metamodel , but it is a \) incomplete and b \) not updated for uml 1 4 this should be done using information from the metamodel rather than hardwired code tfm 20070205 see org argouml cognitive agency see org argouml cognitive designer author jrobbins
+todo implement the difference between ocliskindof and oclistypeof
+todo return empty collection on null input or throw illegalargument \?
+a modelelement has been changed now we give it priority to be checked by the critics asap todo why is is synchronised \? todo what about when objects are first created \? param dm the design material param reason the reason
+return a list of gravity points around circle which is enclosed in the bounding box convenience method for use by figinitialstate and figfinalstate todo as this method is not required by all sub classes , it would seem sensible to extend figstatevertex with figcirclevertex and only have the relevant concrete figs extend that and gain this functionality return a list of points
+todo there 's a cyclic dependency between figconcurrentregion and the actions actionaddconcurrentregion
+todo more is required here to support referencevalues
+todo dependency cycle between fignodemodelelement and figedgeme is this needed \? if so , introduce a removable interface to decouple
+this should be moved to a ui action
+loads the project file and opens all kinds of error message windows if it does n't work for some reason in those cases it preserves the old project param file the file to open param showui true if an error message may be shown to the user , false if run in commandline mode param pmw the progressmonitor to be updated if not needed , use null return true if the file was successfully opened todo separate this into a swing specific class tfm
