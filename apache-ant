@@ -1,0 +1,274 @@
+**********************************sentence NO.=57**************************************
+check first that it is not already loaded otherwise consecutive runs seems to end into an outofmemoryerror or it fails when there is a native library to load several times this is far from being perfect but should work in most cases
+1
+[-1.2922961711883545, 1.2922857999801636]
+[0.07013732194900513, 0.9298626184463501]
+check	[ 0.27024333  0.72975667]
+check first	[ 0.49910189  0.50089811]
+not	[ 0.48571981  0.51428019]
+not already	[ 0.21781509  0.78218491]
+here return	[ 0.46885522  0.53114478]
+otherwise	[ 0.48050591  0.51949409]
+outofmemoryerror	[ 0.4563774  0.5436226]
+it is not already loaded	[ 0.4948789  0.5051211]
+seems to end	[ 0.49450448  0.50549552]
+fails	[ 0.23359908  0.76640092]
+
+**********************************sentence NO.=58**************************************
+mac os 9 and previous todo i have no idea how to get it , someone must fix it
+1
+[-16.131467819213867, 16.13144874572754]
+[9.736286280784441e-15, 1.0]
+todo	[ 0.00460353  0.99539647]
+i have no idea	[ 0.00348009  0.99651991]
+how to	[ 0.00190271  0.99809729]
+todo i have no idea how to[ 0.01275737  0.98724263]
+fix	[ 0.00285569  0.99714431]
+must fix	[ 0.02709689  0.97290311]
+
+**********************************sentence NO.=59**************************************
+we assume , that every output , jikes does , stands for an error warning xxx is this correct \?
+1
+[-1.1974478960037231, 1.1974061727523804]
+[0.08356593549251556, 0.9164339900016785]
+error	[ 0.2165407  0.7834593]
+xxx   [ 0.23703941  0.76296059]
+error warning	[ 0.33556239  0.66443761]
+is this correct	 [ 0.38711331  0.61288669]
+
+**********************************sentence NO.=61**************************************
+silly hack to avoid stack overflow
+1
+[-4.809139251708984, 4.809086322784424]
+[6.650112482020631e-05, 0.9999334812164307]
+silly	[ 0.03100548  0.96899452]
+hack	[ 0.06224466  0.93775534]
+hack to 	[ 0.02965055  0.97034945]
+hack to avoid	[ 0.0531279  0.9468721]
+silly hack	[ 0.01653936  0.98346064]
+silly hack to avoid 	[ 0.10339366  0.89660634]
+**********************************sentence NO.=62**************************************
+todo not read , yet in a public setter
+1
+[-8.661478996276855, 8.661388397216797]
+[2.997601100673819e-08, 1.0]
+todo	[ 0.00528866  0.99471134]
+todo not	[ 0.47368752  0.52631248]
+todo not read 	[ 0.48514883  0.51485117]
+yet	[ 0.49933144  0.50066856]
+
+**********************************sentence NO.=64**************************************
+this is the wrong test if the remote os is openvms , but there does n't seem to be a way to detect it
+1
+[-14.076250076293945, 14.076146125793457]
+[5.937029839107877e-13, 1.0]
+wrong	[ 0.00633355  0.99366645]
+test	[ 0.48659954  0.51340046]
+remote	[ 0.4987484  0.5012516]
+detect	[ 0.00680426  0.99319574]
+wrong test	[ 0.40595042  0.59404958]
+does n't seem to	[ 0.47722587  0.52277413]
+
+**********************************sentence NO.=65**************************************
+xxx we are committing combiningchar and extender here
+1
+[-4.323843002319336, 4.323779582977295]
+[0.00017551278870087117, 0.9998244643211365]
+xxx	[ 0.0274251  0.9725749]
+committing	[ 0.49974406  0.50025594]
+combiningchar	[ 0.47451693  0.52548307]
+xxx we	[ 0.04250558  0.95749442]
+
+**********************************sentence NO.=66**************************************
+todo allow user to request the system or no parent
+1
+[-17.350454330444336, 17.350357055664062]
+[8.504098029172072e-16, 1.0]
+todo	[ 0.00865557  0.99134443]
+todo allow	[ 0.00394158  0.99605842]
+todo allow user	[ 0.44890491  0.55109509]
+todo should this	[ 0.00100859  0.99899141]
+request	[ 0.39565159  0.60434841]
+todo allow user to request	[ 0.00226798  0.99773202]
+
+**********************************sentence NO.=67**************************************
+temporary until we figure a better api
+1
+[-1.0453766584396362, 1.045336127281189]
+[0.11000277101993561, 0.8899971842765808]
+temporary	[ 0.09143539  0.90856461]
+until	[ 0.12503471  0.87496529]
+a better api	[ 0.24747062  0.75252938]
+
+**********************************sentence NO.=86**************************************
+todo using taskname here is brittle , as a user could override it this should probably be modified to use the classname instead
+1
+[-15.414795875549316, 15.414700508117676]
+[4.0824402913102256e-14, 1.0]
+todo	[ 0.00686445  0.99313555]
+todo using	[ 0.00308973  0.99691027]
+todo using taskname	[ 0.0016416  0.9983584]
+brittle	[ 0.44944021  0.55055979]
+probably be modified	[ 0.49575217  0.50424783]
+
+**********************************sentence NO.=91**************************************
+todo there is a problem with the constructor for the rbc you have to provide the rules in the constructors no setters available
+1
+[-17.221704483032227, 17.221607208251953]
+[1.1001678965083007e-15, 1.0]
+todo	[ 0.00902545  0.99097455]
+todo there	[ 0.00324974  0.99675026]
+todo there is	[  9.47219634e-04   9.99052780e-01]
+should this also	[ 0.43328665  0.56671335]
+todo there is a problem	[ 0.00199022  0.99800978]
+no setters available	[  2.73646948e-04   9.99726353e-01]
+
+**********************************sentence NO.=92**************************************
+hack we ask the vm to create an instance by voluntarily providing illegal arguments to force the vm to run the class' static initializer , while at the same time not running a valid constructor
+1
+[-15.292022705078125, 15.291921615600586]
+[5.218692977217686e-14, 1.0]
+hack	[ 0.00754838  0.99245162]
+create	[ 0.47232863  0.52767137]
+force	[ 0.38496949  0.61503051]
+hack we ask	[ 0.00692994  0.99307006]
+voluntarily providing illegal arguments	[ 0.45576133  0.54423867]
+static initializer	[ 0.49180033  0.50819967]
+
+**********************************sentence NO.=94**************************************
+probably not the best choice , but it solves the problem of relative paths in classpath
+1
+[-1.7278014421463013, 1.7277430295944214]
+[0.030603941529989243, 0.9693961143493652]
+not	[ 0.03008689  0.96991311]
+probably	[ 0.49405435  0.50594565]
+not the best choice	[ 0.05186622  0.94813378]
+probably not the best choice	[ 0.04506492  0.95493508]
+solves	[ 0.47792439  0.52207561]
+
+**********************************sentence NO.=99**************************************
+todo is this comment still relevant \? \? fixme need to use a saxsource as the source for the transform so we can plug in our own entity resolver
+1
+[-16.870145797729492, 16.87004852294922]
+[2.2223832136006837e-15, 1.0]
+todo	[ 0.00959625  0.99040375]
+todo is	[ 0.00298764  0.99701236]
+still relevant	[ 0.45864572  0.54135428]
+fixme	[  9.73460774e-04   9.99026539e-01]
+saxsource	[ 0.39812001  0.60187999]
+todo is this	[ 0.00280207  0.99719793]
+entity resolver	[ 0.13832684  0.86167316]
+fixme need to	[ 0.00237415  0.99762585]
+
+**********************************sentence NO.=100**************************************
+fixme this is actually not very cpu cycles friendly as we are converting from dos to java while the underlying sun implementation will convert from java to dos time for internal storage
+1
+[-14.733936309814453, 14.7338285446167]
+[1.5933527284031634e-13, 1.0]
+fixme	[ 0.00530025  0.99469975]
+fixme this	[ 0.49956373  0.50043627]
+actually not	[ 0.49787189  0.50212811]
+not very cpu cycles	[ 0.48825495  0.51174505]
+
+**********************************sentence NO.=108**************************************
+xxx why not simply new file \( dir , filename \) \?
+1
+[-11.546371459960938, 11.546270370483398]
+[9.35390723211249e-11, 1.0]
+xxx	[ 0.0053209  0.9946791]
+xxx why	[ 0.48538358  0.51461642]
+why not	[ 0.49960263  0.50039737]
+
+**********************************sentence NO.=111**************************************
+xxx this array stuff is a remnant of prev trials gotta remove
+1
+[-13.804656028747559, 13.804577827453613]
+[1.022026322079761e-12, 1.0]
+xxx	[ 0.00929661  0.99070339]
+xxx this	[ 0.48768805  0.51231195]
+remnant	[ 0.00889135  0.99110865]
+remove	[ 0.00544071  0.99455929]
+a remnant of prev trials	[ 0.37446193  0.62553807]
+xxx this array	[ 0.01897749  0.98102251]
+
+**********************************sentence NO.=110**************************************
+todo a warning line , that shows code , which contains a variable error will cause some trouble the parser should definitely be much better
+1
+[-15.365832328796387, 15.365742683410645]
+[4.502425653986862e-14, 1.0]
+todo	[ 0.0093169  0.9906831]
+todo a warning	[ 0.00426897  0.99573103]
+error	[ 0.00156507  0.99843493]
+trouble	[ 0.01263707  0.98736293]
+much better	[ 0.20108851  0.79891149]
+
+
+**********************************sentence NO.=115**************************************
+this is really irritating we need a way to set stuff
+1
+[0.3763342499732971, 0.6236656904220581]
+irritating	[ 0.26976207  0.83023793]
+really irritating	[ 0.43428665  0.56571335]
+set stuff	[ 0.34302602  0.65697398]
+
+**********************************sentence NO.=113**************************************
+xxx is the following really necessary \? it is in the same thread group
+1
+[-11.815386772155762, 11.815299987792969]
+[5.4616356576220326e-11, 1.0]
+xxx	[ 0.00847941  0.99152059]
+necessary	[ 0.47866096  0.52133904]
+xxx is	[ 0.01646802  0.98353198]
+really necessary	[ 0.49862883  0.50137117]
+
+**********************************sentence NO.=116**************************************
+todo nothing appears to read this but is set using a public setter
+1
+[-8.493440628051758, 8.493346214294434]
+[4.1950062978912683e-08, 1.0]
+todo	[ 0.00535645  0.99464355]
+todo nothing	[ 0.0128393  0.9871607]
+nothing appears	[ 0.3737749  0.6262251]
+using a public setter	[ 0.48926314  0.51073686]
+ 
+**********************************sentence NO.=117**************************************
+todo parameterise \? \? call compiler as class dont want to fork again use classic compiler can be parameterised \?
+1
+[-11.491525650024414, 11.491423606872559]
+[1.0438362674225488e-10, 1.0]
+todo	[ 0.00339158  0.99660842]
+todo parameterise	[ 0.00132269  0.99867731]
+dont want to fork again	[ 0.47745685  0.52254315]
+call compiler as class 	[ 0.4950158  0.5049842]
+
+**********************************sentence NO.=122**************************************
+fixme is no namespace is empty namespace really ok \?
+1
+[-12.787280082702637, 12.787178993225098]
+[7.819042288637057e-12, 1.0]
+fixme	[ 0.00163453  0.99836547]
+empty	[ 0.46221391  0.53778609]
+really ok	[ 0.44836877  0.55163123]
+
+**********************************sentence NO.=124**************************************
+check it out also ugly
+1
+[-0.19847682118415833, 0.19845835864543915]
+[0.40204891562461853, 0.5979511141777039]
+check	[ 0.46794095  0.53205905]
+ugly	[ 0.28335372  0.71664628]
+check it out	[ 0.38783682  0.61216318]
+check it out also ugly	[ 0.28335372  0.71664628]
+
+**********************************sentence NO.=126**************************************
+todo this is duplicating testresult information only the time is not part of the result so we 'd better derive a new class from testresult and deal with it \( sb \)
+1
+[-8.55923080444336, 8.559136390686035]
+[3.6777990430891805e-08, 1.0]
+todo	[ 0.00492322  0.99507678]
+todo this	[ 0.01485695  0.98514305]
+we 'd better	[ 0.34302602  0.65697398]
+derive a new class	[ 0.47157806  0.52842194]
+todo this is duplicating testresult	[ 0.04901598  0.95098402]
+duplicating testresult information	[ 0.45605163  0.54394837]
+
