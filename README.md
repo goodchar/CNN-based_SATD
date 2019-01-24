@@ -9,7 +9,7 @@ Here are some description of our documents:
 
 2, other_metrics refers to the metrics we do not include in our paper;
 
-3, techinical_debt_dataset refers to the dataset we used;
+3, technical_debt_dataset refers to the dataset we used;
 
 4, 700patterns refers to the patterns we summarized;
 
